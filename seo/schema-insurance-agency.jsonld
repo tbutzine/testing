@@ -15,7 +15,7 @@
   "url": "{SITE_URL}/",
   "image": "{SITE_URL}/images/office-exterior.jpg",
   "description": "Local State Farm insurance agency in Gillette, Wyoming serving Campbell County with auto, home, renters, life, ATV/RV/boat, and small business insurance.",
-  "telephone": "{PHONE}",
+  "telephone": "(307) 686-5000",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "{ADDRESS}",

@@ -24,7 +24,7 @@ get. Each extra policy per household raises retention and revenue without new ac
 > not at all, we can usually quote it in a few minutes, and having everything in one place makes
 > claims simpler.
 >
-> Reply to this email or call us at {PHONE}.
+> Reply to this email or call us at (307) 686-5000.
 >
 > {TeamMember} | Todd Butzine State Farm | Gillette
 

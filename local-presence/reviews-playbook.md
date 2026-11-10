@@ -45,7 +45,7 @@ recognition, per your agency's policy). That keeps asking a habit.
 > Would you share a sentence or two on Google? 👉 {REVIEW_LINK}
 >
 > Thank you!
-> {TeamMember} | Todd Butzine Insurance Agency, Inc. (State Farm) | {PHONE}
+> {TeamMember} | Todd Butzine Insurance Agency, Inc. (State Farm) | (307) 686-5000
 
 **In person**
 > "I'm glad we got that taken care of. Would you mind sharing that in a Google review? I'll text
@@ -64,7 +64,7 @@ Never confirm policy details or claim specifics in a public reply.
 > if you need anything. — Todd and team
 
 **Negative/neutral**
-> Thank you for the feedback. We're sorry we fell short. Please call me directly at {PHONE} so I
+> Thank you for the feedback. We're sorry we fell short. Please call me directly at (307) 686-5000 so I
 > can make this right. — Todd Butzine
 
 Then call the reviewer the same day.

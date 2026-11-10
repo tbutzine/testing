@@ -1,5 +1,7 @@
 # Marketing Plan: Todd Butzine Insurance Agency, Inc. (State Farm®), Gillette, WY
 
+**Agency:** Todd Butzine Insurance Agency, Inc. (State Farm®) · Gillette, Wyoming · (307) 686-5000
+
 A cost-effective, ready-to-run local marketing system for a State Farm agency in Gillette and the
 surrounding Campbell County / Northeast Wyoming market. Covers **Google Business Profile & reviews**,
 **local SEO**, **paid search**, **referrals & cross-sell**, and **tracking**.
@@ -26,7 +28,7 @@ if anything here conflicts with it.
 
 ## Placeholders still to fill
 
-`{PHONE}`, `{ADDRESS}` (street), `{ZIP}`, `{AGENT_PAGE_URL}` (your statefarm.com agent page),
+`{ADDRESS}` (street), `{ZIP}`, `{AGENT_PAGE_URL}` (your statefarm.com agent page),
 `{YEAR}` (agency founded), `{LICENSE_NO}` (WY producer/agency license), `{RATING}`, `{REVIEW_COUNT}`.
 
 ## Strategy in one paragraph

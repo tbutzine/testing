@@ -30,7 +30,7 @@ can't change distance, so win on the other two.
 > County. Our team helps Northeast Wyoming families and businesses protect what matters: cars and
 > trucks, homes, renters, life, ATVs, campers, boats, and small businesses. We know local risks,
 > from spring hail to deer on I-90, and we review your coverage every year to make sure it still
-> fits. Stop by our office at {ADDRESS}, call {PHONE}, or request a quote online. New to Gillette?
+> fits. Stop by our office at {ADDRESS}, call (307) 686-5000, or request a quote online. New to Gillette?
 > We'll help you get insured quickly.
 
 - [ ] **Attributes:** veteran-owned / women-led (if true), wheelchair accessible, online appointments, languages
