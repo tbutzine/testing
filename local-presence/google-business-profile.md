@@ -13,7 +13,7 @@ can't change distance, so win on the other two.
 - [ ] **Primary category:** `Insurance agency`
 - [ ] **Secondary categories:** `Auto insurance agency`, `Home insurance agency`, `Life insurance agency`
       (add `Health insurance agency` / `Business insurance` only if you actively sell them)
-- [ ] **Address:** {ADDRESS}, Gillette, WY {ZIP}. Pin placed exactly on the building
+- [ ] **Address:** 439 Prairieview Dr, Ste G, Gillette, WY 82716. Pin placed exactly on the building
 - [ ] **Service areas:** Gillette, Wright, Moorcroft, Rozet, Recluse, Pine Haven, Sundance, Upton
 - [ ] **Hours:** accurate, plus holiday hours. If you offer after-hours appointments, add them under "More hours"
 - [ ] **Phone:** office number (or approved tracking number as primary + main line as additional)
@@ -30,7 +30,7 @@ can't change distance, so win on the other two.
 > County. Our team helps Northeast Wyoming families and businesses protect what matters: cars and
 > trucks, homes, renters, life, ATVs, campers, boats, and small businesses. We know local risks,
 > from spring hail to deer on I-90, and we review your coverage every year to make sure it still
-> fits. Stop by our office at {ADDRESS}, call (307) 686-5000, or request a quote online. New to Gillette?
+> fits. Stop by our office at 439 Prairieview Dr, Ste G, call (307) 686-5000, or request a quote online. New to Gillette?
 > We'll help you get insured quickly.
 
 - [ ] **Attributes:** veteran-owned / women-led (if true), wheelchair accessible, online appointments, languages

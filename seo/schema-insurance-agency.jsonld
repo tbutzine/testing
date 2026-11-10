@@ -18,10 +18,10 @@
   "telephone": "(307) 686-5000",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "{ADDRESS}",
+    "streetAddress": "439 Prairieview Dr, Ste G",
     "addressLocality": "Gillette",
     "addressRegion": "WY",
-    "postalCode": "{ZIP}",
+    "postalCode": "82716",
     "addressCountry": "US"
   },
   "geo": { "@type": "GeoCoordinates", "latitude": "{LAT}", "longitude": "{LNG}" },
