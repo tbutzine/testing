@@ -1,6 +1,6 @@
 priority,directory,url,cost,status,nap_verified,notes
 1,Google Business Profile,https://business.google.com,Free,,,Primary local asset; name format per State Farm
-1,statefarm.com agent page,{AGENT_PAGE_URL},Included,,,Complete every editable field; must match GBP exactly
+1,statefarm.com agent page,https://toddbutzine.com,Included,,,Complete every editable field; must match GBP exactly
 1,Bing Places,https://www.bingplaces.com,Free,,,Can import from GBP
 1,Apple Business Connect,https://businessconnect.apple.com,Free,,,Powers Apple Maps / Siri on iPhones
 1,Facebook Page,https://www.facebook.com,Free,,,Follow State Farm social media guidelines

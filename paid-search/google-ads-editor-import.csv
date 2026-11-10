@@ -1,41 +1,41 @@
 Campaign,Ad Group,Keyword,Criterion Type,Max CPC,Final URL
-Brand + Agent,State Farm Gillette,state farm gillette,Exact,6.00,{AGENT_PAGE_URL}
-Brand + Agent,State Farm Gillette,state farm gillette wy,Phrase,6.00,{AGENT_PAGE_URL}
-Brand + Agent,State Farm Gillette,state farm agent gillette,Phrase,6.00,{AGENT_PAGE_URL}
-Brand + Agent,State Farm Gillette,state farm insurance gillette,Phrase,6.00,{AGENT_PAGE_URL}
-Brand + Agent,State Farm Gillette,todd butzine,Phrase,3.00,{AGENT_PAGE_URL}
-Brand + Agent,State Farm Near Me,state farm near me,Exact,6.00,{AGENT_PAGE_URL}
-Brand + Agent,State Farm Near Me,state farm agent near me,Exact,6.00,{AGENT_PAGE_URL}
-Brand + Agent,State Farm Near Me,state farm office near me,Exact,6.00,{AGENT_PAGE_URL}
-Brand + Agent,State Farm Near Me,state farm insurance near me,Exact,6.00,{AGENT_PAGE_URL}
-Brand + Agent,Insurance Agent,insurance agent gillette,Phrase,8.00,{AGENT_PAGE_URL}
-Brand + Agent,Insurance Agent,insurance agency gillette wy,Phrase,8.00,{AGENT_PAGE_URL}
-Brand + Agent,Insurance Agent,insurance agents in gillette wyoming,Phrase,8.00,{AGENT_PAGE_URL}
-Brand + Agent,Insurance Agent,insurance agent near me,Exact,8.00,{AGENT_PAGE_URL}
-Brand + Agent,Insurance Agent,insurance agency near me,Exact,8.00,{AGENT_PAGE_URL}
-Brand + Agent,Insurance Agent,insurance companies gillette wy,Phrase,8.00,{AGENT_PAGE_URL}
-Auto + Home Gillette,Auto,car insurance gillette,Phrase,10.00,{AGENT_PAGE_URL}
-Auto + Home Gillette,Auto,auto insurance gillette wy,Phrase,10.00,{AGENT_PAGE_URL}
-Auto + Home Gillette,Auto,car insurance quote gillette,Phrase,10.00,{AGENT_PAGE_URL}
-Auto + Home Gillette,Auto,truck insurance wyoming,Phrase,10.00,{AGENT_PAGE_URL}
-Auto + Home Gillette,Auto,car insurance near me,Exact,10.00,{AGENT_PAGE_URL}
-Auto + Home Gillette,Home / Bundle,home insurance gillette,Phrase,10.00,{AGENT_PAGE_URL}
-Auto + Home Gillette,Home / Bundle,homeowners insurance gillette wy,Phrase,10.00,{AGENT_PAGE_URL}
-Auto + Home Gillette,Home / Bundle,home insurance near me,Exact,10.00,{AGENT_PAGE_URL}
-Auto + Home Gillette,Home / Bundle,home and auto insurance,Phrase,10.00,{AGENT_PAGE_URL}
-Auto + Home Gillette,Home / Bundle,mobile home insurance wyoming,Phrase,8.00,{AGENT_PAGE_URL}
-Toys,ATV/UTV,atv insurance,Phrase,6.00,{AGENT_PAGE_URL}
-Toys,ATV/UTV,utv insurance,Phrase,6.00,{AGENT_PAGE_URL}
-Toys,ATV/UTV,side by side insurance,Phrase,6.00,{AGENT_PAGE_URL}
-Toys,RV/Camper,rv insurance,Phrase,6.00,{AGENT_PAGE_URL}
-Toys,RV/Camper,camper insurance,Phrase,6.00,{AGENT_PAGE_URL}
-Toys,RV/Camper,travel trailer insurance,Phrase,6.00,{AGENT_PAGE_URL}
-Toys,Boat/Snowmobile,boat insurance,Phrase,6.00,{AGENT_PAGE_URL}
-Toys,Boat/Snowmobile,snowmobile insurance,Phrase,6.00,{AGENT_PAGE_URL}
-Toys,Boat/Snowmobile,motorcycle insurance,Phrase,6.00,{AGENT_PAGE_URL}
-New to Gillette / Renters,New Resident,car insurance wyoming new resident,Phrase,6.00,{AGENT_PAGE_URL}
-New to Gillette / Renters,New Resident,transfer car insurance to wyoming,Phrase,6.00,{AGENT_PAGE_URL}
-New to Gillette / Renters,New Resident,moving to gillette wy,Phrase,4.00,{AGENT_PAGE_URL}
-New to Gillette / Renters,Renters,renters insurance gillette,Phrase,5.00,{AGENT_PAGE_URL}
-New to Gillette / Renters,Renters,renters insurance near me,Exact,5.00,{AGENT_PAGE_URL}
-New to Gillette / Renters,Renters,apartment insurance,Phrase,5.00,{AGENT_PAGE_URL}
+Brand + Agent,State Farm Gillette,state farm gillette,Exact,6.00,https://toddbutzine.com
+Brand + Agent,State Farm Gillette,state farm gillette wy,Phrase,6.00,https://toddbutzine.com
+Brand + Agent,State Farm Gillette,state farm agent gillette,Phrase,6.00,https://toddbutzine.com
+Brand + Agent,State Farm Gillette,state farm insurance gillette,Phrase,6.00,https://toddbutzine.com
+Brand + Agent,State Farm Gillette,todd butzine,Phrase,3.00,https://toddbutzine.com
+Brand + Agent,State Farm Near Me,state farm near me,Exact,6.00,https://toddbutzine.com
+Brand + Agent,State Farm Near Me,state farm agent near me,Exact,6.00,https://toddbutzine.com
+Brand + Agent,State Farm Near Me,state farm office near me,Exact,6.00,https://toddbutzine.com
+Brand + Agent,State Farm Near Me,state farm insurance near me,Exact,6.00,https://toddbutzine.com
+Brand + Agent,Insurance Agent,insurance agent gillette,Phrase,8.00,https://toddbutzine.com
+Brand + Agent,Insurance Agent,insurance agency gillette wy,Phrase,8.00,https://toddbutzine.com
+Brand + Agent,Insurance Agent,insurance agents in gillette wyoming,Phrase,8.00,https://toddbutzine.com
+Brand + Agent,Insurance Agent,insurance agent near me,Exact,8.00,https://toddbutzine.com
+Brand + Agent,Insurance Agent,insurance agency near me,Exact,8.00,https://toddbutzine.com
+Brand + Agent,Insurance Agent,insurance companies gillette wy,Phrase,8.00,https://toddbutzine.com
+Auto + Home Gillette,Auto,car insurance gillette,Phrase,10.00,https://toddbutzine.com
+Auto + Home Gillette,Auto,auto insurance gillette wy,Phrase,10.00,https://toddbutzine.com
+Auto + Home Gillette,Auto,car insurance quote gillette,Phrase,10.00,https://toddbutzine.com
+Auto + Home Gillette,Auto,truck insurance wyoming,Phrase,10.00,https://toddbutzine.com
+Auto + Home Gillette,Auto,car insurance near me,Exact,10.00,https://toddbutzine.com
+Auto + Home Gillette,Home / Bundle,home insurance gillette,Phrase,10.00,https://toddbutzine.com
+Auto + Home Gillette,Home / Bundle,homeowners insurance gillette wy,Phrase,10.00,https://toddbutzine.com
+Auto + Home Gillette,Home / Bundle,home insurance near me,Exact,10.00,https://toddbutzine.com
+Auto + Home Gillette,Home / Bundle,home and auto insurance,Phrase,10.00,https://toddbutzine.com
+Auto + Home Gillette,Home / Bundle,mobile home insurance wyoming,Phrase,8.00,https://toddbutzine.com
+Toys,ATV/UTV,atv insurance,Phrase,6.00,https://toddbutzine.com
+Toys,ATV/UTV,utv insurance,Phrase,6.00,https://toddbutzine.com
+Toys,ATV/UTV,side by side insurance,Phrase,6.00,https://toddbutzine.com
+Toys,RV/Camper,rv insurance,Phrase,6.00,https://toddbutzine.com
+Toys,RV/Camper,camper insurance,Phrase,6.00,https://toddbutzine.com
+Toys,RV/Camper,travel trailer insurance,Phrase,6.00,https://toddbutzine.com
+Toys,Boat/Snowmobile,boat insurance,Phrase,6.00,https://toddbutzine.com
+Toys,Boat/Snowmobile,snowmobile insurance,Phrase,6.00,https://toddbutzine.com
+Toys,Boat/Snowmobile,motorcycle insurance,Phrase,6.00,https://toddbutzine.com
+New to Gillette / Renters,New Resident,car insurance wyoming new resident,Phrase,6.00,https://toddbutzine.com
+New to Gillette / Renters,New Resident,transfer car insurance to wyoming,Phrase,6.00,https://toddbutzine.com
+New to Gillette / Renters,New Resident,moving to gillette wy,Phrase,4.00,https://toddbutzine.com
+New to Gillette / Renters,Renters,renters insurance gillette,Phrase,5.00,https://toddbutzine.com
+New to Gillette / Renters,Renters,renters insurance near me,Exact,5.00,https://toddbutzine.com
+New to Gillette / Renters,Renters,apartment insurance,Phrase,5.00,https://toddbutzine.com

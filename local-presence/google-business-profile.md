@@ -18,7 +18,7 @@ can't change distance, so win on the other two.
 - [ ] **Hours:** accurate, plus holiday hours. If you offer after-hours appointments, add them under "More hours"
 - [ ] **Phone:** office number (or approved tracking number as primary + main line as additional)
 - [ ] **Website:** your statefarm.com agent page, tagged
-      `{AGENT_PAGE_URL}?utm_source=google&utm_medium=organic&utm_campaign=gbp`
+      `https://toddbutzine.com?utm_source=google&utm_medium=organic&utm_campaign=gbp`
       (if State Farm permits UTM parameters on agent URLs)
 - [ ] **Appointment link:** approved scheduling link, if available
 - [ ] **Services** (each with a 1–2 sentence Gillette-specific description):

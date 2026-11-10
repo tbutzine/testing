@@ -39,7 +39,7 @@
   ],
   "brand": { "@type": "Brand", "name": "State Farm" },
   "sameAs": [
-    "{AGENT_PAGE_URL}",
+    "https://toddbutzine.com",
     "{GOOGLE_BUSINESS_PROFILE_URL}",
     "{FACEBOOK_URL}"
   ]
