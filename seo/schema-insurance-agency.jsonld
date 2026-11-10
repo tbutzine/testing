@@ -1,0 +1,63 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "InsuranceAgency",
+  "@id": "https://{DOMAIN}/#agency",
+  "name": "{AGENCY}",
+  "url": "https://{DOMAIN}/",
+  "logo": "https://{DOMAIN}/images/logo.png",
+  "image": "https://{DOMAIN}/images/office-exterior.jpg",
+  "description": "Independent insurance agency in {CITY}, {STATE} comparing {N}+ carriers for home, auto, life, and business insurance.",
+  "telephone": "{PHONE}",
+  "email": "info@{DOMAIN}",
+  "priceRange": "$$",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "{STREET}",
+    "addressLocality": "{CITY}",
+    "addressRegion": "{STATE}",
+    "postalCode": "{ZIP}",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "{LAT}",
+    "longitude": "{LNG}"
+  },
+  "areaServed": [
+    { "@type": "City", "name": "{CITY}" },
+    { "@type": "City", "name": "{NEIGHBOR_TOWN_1}" },
+    { "@type": "City", "name": "{NEIGHBOR_TOWN_2}" }
+  ],
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "opens": "09:00",
+      "closes": "17:00"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Insurance Services",
+    "itemListElement": [
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Home Insurance", "url": "https://{DOMAIN}/home-insurance-{city}/" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Auto Insurance", "url": "https://{DOMAIN}/auto-insurance-{city}/" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Business Insurance", "url": "https://{DOMAIN}/business-insurance-{city}/" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Life Insurance", "url": "https://{DOMAIN}/life-insurance-{city}/" } }
+    ]
+  },
+  "sameAs": [
+    "{GOOGLE_BUSINESS_PROFILE_URL}",
+    "https://www.facebook.com/{FACEBOOK_HANDLE}",
+    "https://www.linkedin.com/company/{LINKEDIN_HANDLE}",
+    "https://www.yelp.com/biz/{YELP_SLUG}"
+  ]
+}
+</script>
+<!--
+  Place in the <head> of the homepage (and optionally site-wide).
+  Do NOT add "aggregateRating" from your own Google reviews: Google ignores
+  self-serving review markup for LocalBusiness types and it can trigger a manual action.
+  Validate at https://validator.schema.org and https://search.google.com/test/rich-results
+-->

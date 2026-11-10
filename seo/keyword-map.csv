@@ -1,0 +1,19 @@
+target_page,primary_keyword,secondary_keywords,intent,priority,also_bid_in_ads
+/,insurance agency {city},insurance agent {city}; independent insurance agent {city}; insurance agent near me; insurance broker {city},Commercial,1,Yes
+/home-insurance-{city}/,home insurance {city},homeowners insurance {city}; home insurance quote {city}; house insurance {city},Commercial,1,Yes
+/auto-insurance-{city}/,car insurance {city},auto insurance {city}; auto insurance agent {city}; car insurance quote {city},Commercial,1,Yes (exact/phrase only)
+/business-insurance-{city}/,business insurance {city},small business insurance {city}; commercial insurance {city}; general liability insurance {city},Commercial,1,Yes
+/business-insurance-{city}/contractor-insurance/,contractor insurance {state},contractor liability insurance {city}; general contractor insurance; handyman insurance {state},Commercial,2,Yes
+/business-insurance-{city}/restaurant-insurance/,restaurant insurance {city},restaurant liability insurance; food truck insurance {state},Commercial,3,Optional
+/life-insurance-{city}/,life insurance agent {city},term life insurance {city}; life insurance quote {city},Commercial,2,Optional
+/home-insurance-{city}/,home and auto insurance bundle {city},bundle home and auto insurance; home and auto insurance quotes,Commercial,2,Yes
+/landlord-insurance/,landlord insurance {city},rental property insurance {city}; dwelling fire policy {state},Commercial,2,Yes
+/umbrella-insurance/,umbrella insurance {city},personal umbrella policy; umbrella insurance cost,Commercial,3,No
+/renters-insurance/,renters insurance {city},cheap renters insurance {city},Commercial,3,No
+/areas-we-serve/{town}/,insurance agency {town},insurance agent {town}; home insurance {town},Commercial,3,Yes (geo ad groups)
+/blog/home-insurance-cost-{city}/,how much is home insurance in {city},average home insurance cost {state},Informational,2,No
+/blog/{state}-car-insurance-requirements/,{state} car insurance requirements,{state} minimum auto insurance,Informational,2,No
+/blog/contractor-insurance-requirements-{state}/,what insurance does a contractor need in {state},contractor license insurance requirements {state},Informational,3,No
+/blog/why-did-my-insurance-go-up/,why did my home insurance go up,home insurance rate increase {state},Informational,3,No
+/blog/independent-vs-captive-agent/,independent insurance agent vs captive,independent agent benefits,Informational,3,No
+/get-a-quote/,insurance quote {city},free insurance quote,Transactional,1,Landing page for ads

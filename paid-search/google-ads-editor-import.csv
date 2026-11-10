@@ -1,0 +1,42 @@
+Campaign,Ad Group,Keyword,Criterion Type,Max CPC,Final URL
+Brand,Brand,{agency name},Exact,3.00,https://{DOMAIN}/
+Brand,Brand,{agency name} insurance,Phrase,3.00,https://{DOMAIN}/
+Brand,Brand,{owner name} insurance agent,Phrase,3.00,https://{DOMAIN}/
+Local Agency + Bundle,Insurance Agent {City},insurance agent {city},Phrase,12.00,https://{DOMAIN}/
+Local Agency + Bundle,Insurance Agent {City},insurance agency {city},Phrase,12.00,https://{DOMAIN}/
+Local Agency + Bundle,Insurance Agent {City},insurance agents in {city},Phrase,12.00,https://{DOMAIN}/
+Local Agency + Bundle,Insurance Agent {City},insurance agent near me,Exact,12.00,https://{DOMAIN}/
+Local Agency + Bundle,Insurance Agent {City},insurance agency near me,Exact,12.00,https://{DOMAIN}/
+Local Agency + Bundle,Insurance Agent {City},local insurance agent,Exact,12.00,https://{DOMAIN}/
+Local Agency + Bundle,Independent Agent,independent insurance agent {city},Phrase,12.00,https://{DOMAIN}/
+Local Agency + Bundle,Independent Agent,independent insurance agent near me,Exact,12.00,https://{DOMAIN}/
+Local Agency + Bundle,Independent Agent,insurance broker {city},Phrase,12.00,https://{DOMAIN}/
+Local Agency + Bundle,Independent Agent,insurance broker near me,Exact,12.00,https://{DOMAIN}/
+Local Agency + Bundle,Home + Auto Bundle,home and auto insurance {city},Phrase,14.00,https://{DOMAIN}/home-insurance-{city}/
+Local Agency + Bundle,Home + Auto Bundle,bundle home and auto insurance,Phrase,14.00,https://{DOMAIN}/home-insurance-{city}/
+Local Agency + Bundle,Home + Auto Bundle,home and auto insurance quotes,Phrase,14.00,https://{DOMAIN}/home-insurance-{city}/
+Local Agency + Bundle,Home + Auto Bundle,car insurance {city},Exact,14.00,https://{DOMAIN}/auto-insurance-{city}/
+Local Agency + Bundle,Home + Auto Bundle,auto insurance {city},Exact,14.00,https://{DOMAIN}/auto-insurance-{city}/
+Commercial Lines,Business Insurance {City},business insurance {city},Phrase,15.00,https://{DOMAIN}/business-insurance-{city}/
+Commercial Lines,Business Insurance {City},small business insurance {city},Phrase,15.00,https://{DOMAIN}/business-insurance-{city}/
+Commercial Lines,Business Insurance {City},commercial insurance {city},Phrase,15.00,https://{DOMAIN}/business-insurance-{city}/
+Commercial Lines,Business Insurance {City},business insurance agent near me,Exact,15.00,https://{DOMAIN}/business-insurance-{city}/
+Commercial Lines,Business Insurance {City},business owners policy {state},Phrase,15.00,https://{DOMAIN}/business-insurance-{city}/
+Commercial Lines,General Liability,general liability insurance {city},Phrase,15.00,https://{DOMAIN}/business-insurance-{city}/
+Commercial Lines,General Liability,general liability insurance {state},Phrase,15.00,https://{DOMAIN}/business-insurance-{city}/
+Commercial Lines,General Liability,general liability insurance near me,Exact,15.00,https://{DOMAIN}/business-insurance-{city}/
+Commercial Lines,Contractor,contractor insurance {state},Phrase,15.00,https://{DOMAIN}/business-insurance-{city}/contractor-insurance/
+Commercial Lines,Contractor,contractor liability insurance,Phrase,15.00,https://{DOMAIN}/business-insurance-{city}/contractor-insurance/
+Commercial Lines,Contractor,general contractor insurance {city},Phrase,15.00,https://{DOMAIN}/business-insurance-{city}/contractor-insurance/
+Commercial Lines,Contractor,handyman insurance {state},Phrase,15.00,https://{DOMAIN}/business-insurance-{city}/contractor-insurance/
+Commercial Lines,Contractor,roofing contractor insurance,Phrase,15.00,https://{DOMAIN}/business-insurance-{city}/contractor-insurance/
+Commercial Lines,Workers Comp / Commercial Auto,workers comp insurance {state},Phrase,15.00,https://{DOMAIN}/business-insurance-{city}/
+Commercial Lines,Workers Comp / Commercial Auto,workers compensation insurance small business,Phrase,15.00,https://{DOMAIN}/business-insurance-{city}/
+Commercial Lines,Workers Comp / Commercial Auto,commercial auto insurance {city},Phrase,15.00,https://{DOMAIN}/business-insurance-{city}/
+Home / Landlord,Home Insurance {City},home insurance {city},Phrase,13.00,https://{DOMAIN}/home-insurance-{city}/
+Home / Landlord,Home Insurance {City},homeowners insurance {city},Phrase,13.00,https://{DOMAIN}/home-insurance-{city}/
+Home / Landlord,Home Insurance {City},home insurance agent near me,Exact,13.00,https://{DOMAIN}/home-insurance-{city}/
+Home / Landlord,Home Insurance {City},homeowners insurance quote {city},Phrase,13.00,https://{DOMAIN}/home-insurance-{city}/
+Home / Landlord,Landlord,landlord insurance {city},Phrase,12.00,https://{DOMAIN}/landlord-insurance/
+Home / Landlord,Landlord,rental property insurance {city},Phrase,12.00,https://{DOMAIN}/landlord-insurance/
+Home / Landlord,Landlord,landlord insurance {state},Phrase,12.00,https://{DOMAIN}/landlord-insurance/

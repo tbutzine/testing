@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!--
+    LOCAL LANDING PAGE TEMPLATE
+    Use for: /home-insurance-{city}/, /auto-insurance-{city}/, /business-insurance-{city}/, niche and town pages.
+    Also use as the Google Ads landing page (one page per ad group theme).
+    Replace every {PLACEHOLDER}. Rewrite the [LOCAL DETAIL] sections with genuinely local content;
+    do not reuse identical text across city pages.
+  -->
+  <title>{PRODUCT} Insurance in {CITY}, {STATE} | {AGENCY}</title>
+  <meta name="description" content="Compare {PRODUCT} insurance from {N}+ carriers with a local {CITY} agent. {RATING}★ from {REVIEW_COUNT}+ neighbors. Free quote in minutes.">
+  <link rel="canonical" href="https://{DOMAIN}/{product}-insurance-{city}/">
+  <style>
+    :root { --brand: #0b4f6c; --accent: #f2a541; --text: #1f2933; --muted: #52606d; --bg: #ffffff; --soft: #f5f7fa; }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; color: var(--text); background: var(--bg); line-height: 1.6; }
+    .wrap { max-width: 1080px; margin: 0 auto; padding: 0 16px; }
+    header.top { display: flex; justify-content: space-between; align-items: center; padding: 12px 0; flex-wrap: wrap; gap: 8px; }
+    .call { background: var(--brand); color: #fff; padding: 10px 16px; border-radius: 6px; text-decoration: none; font-weight: 700; }
+    .hero { background: var(--soft); padding: 40px 0; }
+    .hero-grid { display: grid; grid-template-columns: 1.3fr 1fr; gap: 32px; align-items: start; }
+    @media (max-width: 760px) { .hero-grid { grid-template-columns: 1fr; } }
+    h1 { font-size: clamp(1.8rem, 4vw, 2.6rem); line-height: 1.2; margin: 0 0 12px; }
+    .trust { color: var(--muted); font-size: .95rem; }
+    form { background: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 18px rgba(0,0,0,.08); }
+    label { display: block; font-size: .9rem; font-weight: 600; margin-top: 10px; }
+    input, select { width: 100%; padding: 10px; border: 1px solid #cbd2d9; border-radius: 6px; font-size: 1rem; }
+    button { margin-top: 16px; width: 100%; padding: 12px; background: var(--accent); border: 0; border-radius: 6px; font-size: 1.05rem; font-weight: 700; cursor: pointer; }
+    .fine { font-size: .75rem; color: var(--muted); margin-top: 8px; }
+    section { padding: 36px 0; }
+    .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; }
+    .card { background: var(--soft); padding: 16px; border-radius: 8px; }
+    blockquote { margin: 0; background: var(--soft); padding: 16px; border-left: 4px solid var(--accent); border-radius: 4px; }
+    footer { background: var(--brand); color: #fff; padding: 24px 0; font-size: .9rem; }
+    footer a { color: #fff; }
+    .sticky-call { display: none; }
+    @media (max-width: 760px) {
+      .sticky-call { display: block; position: fixed; bottom: 0; left: 0; right: 0; text-align: center; background: var(--brand); color: #fff; padding: 14px; font-weight: 700; text-decoration: none; z-index: 10; }
+      body { padding-bottom: 56px; }
+    }
+  </style>
+
+  <!-- Paste seo/schema-insurance-agency.jsonld here (site-wide) -->
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      { "@type": "Question", "name": "How much is {PRODUCT} insurance in {CITY}?",
+        "acceptedAnswer": { "@type": "Answer", "text": "{ANSWER_1}" } },
+      { "@type": "Question", "name": "Why use an independent agent instead of buying online?",
+        "acceptedAnswer": { "@type": "Answer", "text": "An independent agent compares coverage and prices from multiple carriers for you, explains the differences, and helps when you have a claim. {AGENCY} works with {N}+ carriers." } },
+      { "@type": "Question", "name": "{LOCAL_QUESTION}",
+        "acceptedAnswer": { "@type": "Answer", "text": "{ANSWER_3}" } }
+    ]
+  }
+  </script>
+</head>
+<body>
+  <div class="wrap">
+    <header class="top">
+      <strong>{AGENCY}</strong>
+      <a class="call" href="tel:{PHONE_DIGITS}">Call {PHONE}</a>
+    </header>
+  </div>
+
+  <div class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <h1>{PRODUCT} Insurance in {CITY}, {STATE}</h1>
+        <p><strong>One local agent. {N}+ insurance companies. We shop, you save time.</strong></p>
+        <p>As an independent agency, {AGENCY} compares {PRODUCT_LOWER} insurance from carriers like
+          {CARRIERS} to find the right coverage at the right price for {CITY} {households/businesses}.</p>
+        <p class="trust">★ {RATING} from {REVIEW_COUNT}+ Google reviews · Serving {CITY} since {YEAR} · Licensed in {STATE} (#{LICENSE_NO})</p>
+      </div>
+
+      <!-- Keep the form short: every extra field reduces conversions. -->
+      <form action="/thank-you/" method="post" id="quote-form">
+        <strong>Get a free {PRODUCT_LOWER} quote</strong>
+        <label for="name">Name</label>
+        <input id="name" name="name" autocomplete="name" required>
+        <label for="phone">Phone</label>
+        <input id="phone" name="phone" type="tel" autocomplete="tel" required>
+        <label for="email">Email</label>
+        <input id="email" name="email" type="email" autocomplete="email" required>
+        <label for="zip">ZIP code</label>
+        <input id="zip" name="zip" inputmode="numeric" autocomplete="postal-code" required>
+        <label for="interest">I'm interested in</label>
+        <select id="interest" name="interest">
+          <option>{PRODUCT}</option><option>Home + Auto bundle</option><option>Business</option><option>Life</option><option>Other</option>
+        </select>
+        <!-- Hidden fields capture the lead source; see tracking/measurement-plan.md -->
+        <input type="hidden" name="utm_source"><input type="hidden" name="utm_medium">
+        <input type="hidden" name="utm_campaign"><input type="hidden" name="utm_term"><input type="hidden" name="gclid">
+        <button type="submit">Get My Quote</button>
+        <p class="fine">A licensed local agent will contact you, usually within 15 minutes during business hours.
+          By submitting, you agree we may contact you about your quote. {TCPA_CONSENT_LANGUAGE_REVIEWED_BY_COUNSEL}</p>
+      </form>
+    </div>
+  </div>
+
+  <div class="wrap">
+    <section>
+      <h2>Why {CITY} families choose {AGENCY}</h2>
+      <div class="cards">
+        <div class="card"><strong>We shop {N}+ carriers</strong><p>One conversation, many quotes. No need to call around.</p></div>
+        <div class="card"><strong>Local claims help</strong><p>When something happens, you call us, not a 1-800 number.</p></div>
+        <div class="card"><strong>Annual coverage reviews</strong><p>We re-check your rates and coverage every year.</p></div>
+        <div class="card"><strong>Bundle and save</strong><p>Combining home, auto, and umbrella often lowers your total cost.</p></div>
+      </div>
+    </section>
+
+    <section>
+      <h2>{PRODUCT} insurance in {CITY}: what to know</h2>
+      <!-- [LOCAL DETAIL] 300–600 words of genuinely local information. Examples:
+           - Local risks: hail/wind season, flood zones along {RIVER}, wildfire, older housing stock in {NEIGHBORHOOD}
+           - {STATE} requirements (auto minimums, contractor licensing insurance requirements)
+           - Typical cost ranges you see in your own quotes (anonymized), and what drives them
+           - Coverage gaps you commonly find (water backup, replacement cost, uninsured motorist) -->
+      <p>{LOCAL_CONTENT}</p>
+    </section>
+
+    <section>
+      <h2>What our neighbors say</h2>
+      <div class="cards">
+        <blockquote>"{REVIEW_1}" <br>— {REVIEWER_1}, {TOWN}</blockquote>
+        <blockquote>"{REVIEW_2}" <br>— {REVIEWER_2}, {TOWN}</blockquote>
+        <blockquote>"{REVIEW_3}" <br>— {REVIEWER_3}, {TOWN}</blockquote>
+      </div>
+    </section>
+
+    <section>
+      <h2>Frequently asked questions</h2>
+      <h3>How much is {PRODUCT_LOWER} insurance in {CITY}?</h3><p>{ANSWER_1}</p>
+      <h3>Why use an independent agent instead of buying online?</h3>
+      <p>An independent agent compares coverage and prices from multiple carriers for you, explains the differences, and helps when you have a claim. {AGENCY} works with {N}+ carriers.</p>
+      <h3>{LOCAL_QUESTION}</h3><p>{ANSWER_3}</p>
+    </section>
+
+    <section>
+      <h2>Serving {CITY} and nearby</h2>
+      <p>We insure clients in {CITY}, {NEIGHBOR_TOWNS}. Visit us at {ADDRESS}, or get a quote by phone or online.</p>
+      <p>Related: <a href="/home-insurance-{city}/">Home insurance</a> · <a href="/auto-insurance-{city}/">Auto insurance</a> · <a href="/business-insurance-{city}/">Business insurance</a></p>
+      <!-- Optional: embed Google Map iframe of your GBP listing here -->
+    </section>
+  </div>
+
+  <footer>
+    <div class="wrap">
+      <strong>{AGENCY}</strong><br>
+      {ADDRESS} · <a href="tel:{PHONE_DIGITS}">{PHONE}</a><br>
+      Licensed insurance agency in {STATE}, license #{LICENSE_NO}. Coverage subject to carrier underwriting and policy terms.
+    </div>
+  </footer>
+
+  <a class="sticky-call" href="tel:{PHONE_DIGITS}">📞 Call for a free quote: {PHONE}</a>
+
+  <script>
+    // Copy UTM parameters and gclid from the URL into hidden form fields so every lead records its source.
+    (function () {
+      var params = new URLSearchParams(window.location.search);
+      ['utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'gclid'].forEach(function (key) {
+        var value = params.get(key);
+        try {
+          if (value) sessionStorage.setItem(key, value);
+          else value = sessionStorage.getItem(key);
+        } catch (e) { /* storage blocked; use URL value only */ }
+        var field = document.querySelector('input[name="' + key + '"]');
+        if (field && value) field.value = value;
+      });
+    })();
+  </script>
+</body>
+</html>

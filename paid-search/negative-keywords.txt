@@ -1,0 +1,97 @@
+# Shared negative keyword list for every Search campaign (phrase match unless noted).
+# In Google Ads: Tools > Shared library > Exclusion lists > + > paste > apply to all campaigns.
+# Remove a line if it describes something you DO sell (e.g. remove "health" if you write health).
+
+# --- Jobs / careers ---
+jobs
+job
+careers
+career
+hiring
+salary
+salaries
+employment
+license exam
+licensing course
+pre licensing
+become an agent
+how to become
+training
+internship
+resume
+
+# --- Existing-customer / service intent for other companies ---
+login
+log in
+sign in
+pay bill
+payment
+customer service
+phone number
+claims number
+file a claim
+cancel
+cancellation
+app
+portal
+
+# --- Direct writers and captive carriers (people looking for a specific brand) ---
+# Keep only if you do NOT represent them. Do not bid on brands you can't sell.
+geico
+state farm
+allstate
+farmers
+progressive
+usaa
+liberty mutual
+nationwide
+american family
+lemonade
+root insurance
+
+# --- Research / DIY with low buying intent ---
+# (Don't add "free": "free insurance quote" is a high-intent search.)
+definition
+meaning
+what is
+wiki
+reddit
+template
+sample
+pdf
+statistics
+history
+lawsuit
+lawyer
+attorney
+complaint
+complaints
+
+# --- Products you likely don't sell (edit to match your agency) ---
+health
+medicare
+medicaid
+obamacare
+dental
+vision
+pet
+travel
+phone insurance
+gadget
+title insurance
+mortgage insurance
+pmi
+flight
+rental car insurance
+crop
+
+# --- Out-of-area (add towns/states you can't serve) ---
+# {FAR_CITY_1}
+# {FAR_CITY_2}
+# {OTHER_STATE}
+
+# --- Low-quality / non-standard (remove if you specialize in these) ---
+# sr22
+# non owner
+# no license
+# cheapest
