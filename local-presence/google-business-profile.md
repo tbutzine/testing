@@ -27,7 +27,7 @@ can't change distance, so win on the other two.
 - [ ] **Description (750 characters; get it approved):**
 
 > Todd Butzine Insurance Agency, Inc. is a local State Farm office serving Gillette and Campbell
-> County. Our team helps Northeast Wyoming families and businesses protect what matters: cars and
+> County since 1993. Our team helps Northeast Wyoming families and businesses protect what matters: cars and
 > trucks, homes, renters, life, ATVs, campers, boats, and small businesses. We know local risks,
 > from spring hail to deer on I-90, and we review your coverage every year to make sure it still
 > fits. Stop by our office at 439 Prairieview Dr, Ste G, call (307) 686-5000, or request a quote online. New to Gillette?

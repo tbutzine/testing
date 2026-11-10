@@ -16,6 +16,7 @@ including use of the State Farm name, if brand use in ads is restricted.
 | Real Help With Claims | 21 |
 | {RATING}★ From Gillette Neighbors | about 30 (check after filling) |
 | Serving Campbell County | 23 |
+| Serving Gillette Since 1993 | 27 |
 | Quotes by Phone or In Person | 28 |
 | Talk to a Local Agent Today | 27 |
 | Walk-Ins Welcome | 16 |

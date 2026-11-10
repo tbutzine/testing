@@ -12,6 +12,7 @@
   "@id": "{SITE_URL}/#agency",
   "name": "Todd Butzine - State Farm Insurance Agent",
   "legalName": "Todd Butzine Insurance Agency, Inc.",
+  "foundingDate": "1993",
   "url": "{SITE_URL}/",
   "image": "{SITE_URL}/images/office-exterior.jpg",
   "description": "Local State Farm insurance agency in Gillette, Wyoming serving Campbell County with auto, home, renters, life, ATV/RV/boat, and small business insurance.",

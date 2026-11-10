@@ -2,6 +2,8 @@
 
 **Agency:** Todd Butzine Insurance Agency, Inc. (State Farm®) · 439 Prairieview Dr, Ste G, Gillette, WY 82716 · (307) 686-5000 · toddbutzine.com
 
+Serving Gillette since 1993 · Wyoming insurance license #45184 · NPN 3386114
+
 A cost-effective, ready-to-run local marketing system for a State Farm agency in Gillette and the
 surrounding Campbell County / Northeast Wyoming market. Covers **Google Business Profile & reviews**,
 **local SEO**, **paid search**, **referrals & cross-sell**, and **tracking**.
@@ -28,7 +30,7 @@ if anything here conflicts with it.
 
 ## Placeholders still to fill
 
-`{YEAR}` (agency founded), `{LICENSE_NO}` (WY producer/agency license), `{RATING}`, `{REVIEW_COUNT}`.
+`{RATING}`, `{REVIEW_COUNT}`.
 
 ## Strategy in one paragraph
 
