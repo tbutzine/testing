@@ -75,7 +75,7 @@ appetite. Confirm before you target it.
 
 | KPI | 90-day target | 6-month target |
 |---|---|---|
-| New Google reviews | +30 | +75 (rating ≥4.8) and the most reviews of any Gillette State Farm office |
+| Google reviews (start: 17 at 4.4★) | 47 at about 4.7★ | 92+ at 4.8★, the most of any Gillette State Farm office |
 | GBP calls + website clicks | +30% | +75% |
 | Qualified new-prospect leads/mo | 20 | 35 |
 | Paid cost per lead | ≤ $45 | ≤ $35 |

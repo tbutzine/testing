@@ -28,9 +28,10 @@ agency marketing support (rules change, and this plan can't see your agreement):
 Everything below is written to fit typical captive-agent rules, but **State Farm's guidance wins**
 if anything here conflicts with it.
 
-## Placeholders still to fill
+## Starting point (November 2026)
 
-`{RATING}`, `{REVIEW_COUNT}`.
+17 Google reviews, 4.4-star average. Building reviews is the top priority; see
+[`local-presence/reviews-playbook.md`](local-presence/reviews-playbook.md).
 
 ## Strategy in one paragraph
 

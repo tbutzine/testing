@@ -14,7 +14,6 @@ including use of the State Farm name, if brand use in ads is restricted.
 | Call or Stop By Today | 21 |
 | Bundle Auto & Home Coverage | 27 |
 | Real Help With Claims | 21 |
-| {RATING}★ From Gillette Neighbors | about 30 (check after filling) |
 | Serving Campbell County | 23 |
 | Serving Gillette Since 1993 | 27 |
 | Quotes by Phone or In Person | 28 |
@@ -68,5 +67,5 @@ including use of the State Farm name, if brand use in ads is restricted.
 
 - No "cheapest", "lowest rates", or specific savings percentages unless State Farm provides approved claims
 - Match headline 1 to the keyword theme (Gillette + product)
-- Update the review rating/count quarterly
+- Don't mention the star rating in ads until it reaches 4.7+ with 50+ reviews (today: 4.4 from 17)
 - Include required disclosures and keep approval records on file

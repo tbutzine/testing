@@ -1,7 +1,13 @@
 # Reviews Playbook: Todd Butzine State Farm, Gillette
 
 Reviews are the biggest lever for winning the map pack against other Gillette State Farm offices,
-and the first thing a new resident compares. **Goal: 10–15 new Google reviews per month, every
+and the first thing a new resident compares.
+
+**Starting point (November 2026): 17 reviews, 4.4 stars.** If new reviews average about 4.9 stars,
+30 new reviews lift us to about 4.7 by day 90, and 75 reach about 4.8 by month 6. Until then, keep
+the star rating out of ads and the landing page.
+
+**Goal: 10–15 new Google reviews per month, every
 review answered within 48 hours, and the most reviews of any agent in town within 6 months.**
 
 > Confirm with State Farm whether review requests must use specific approved wording or tools,
