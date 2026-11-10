@@ -7,12 +7,13 @@
     LOCAL LANDING PAGE TEMPLATE
     Use for: /home-insurance-{city}/, /auto-insurance-{city}/, /business-insurance-{city}/, niche and town pages.
     Also use as the Google Ads landing page (one page per ad group theme).
+    ONLY for an agent-owned site approved by State Farm; get page copy approved before publishing.
     Replace every {PLACEHOLDER}. Rewrite the [LOCAL DETAIL] sections with genuinely local content;
     do not reuse identical text across city pages.
   -->
-  <title>{PRODUCT} Insurance in {CITY}, {STATE} | {AGENCY}</title>
-  <meta name="description" content="Compare {PRODUCT} insurance from {N}+ carriers with a local {CITY} agent. {RATING}★ from {REVIEW_COUNT}+ neighbors. Free quote in minutes.">
-  <link rel="canonical" href="https://{DOMAIN}/{product}-insurance-{city}/">
+  <title>{PRODUCT} Insurance in Gillette, WY | Todd Butzine - State Farm</title>
+  <meta name="description" content="{PRODUCT} insurance from your local Gillette State Farm agent. {RATING}★ from {REVIEW_COUNT}+ neighbors. Get a quote by phone, online, or in our office.">
+  <link rel="canonical" href="{SITE_URL}/{product}-insurance-gillette-wy/">
   <style>
     :root { --brand: #0b4f6c; --accent: #f2a541; --text: #1f2933; --muted: #52606d; --bg: #ffffff; --soft: #f5f7fa; }
     * { box-sizing: border-box; }
@@ -50,10 +51,10 @@
     "@context": "https://schema.org",
     "@type": "FAQPage",
     "mainEntity": [
-      { "@type": "Question", "name": "How much is {PRODUCT} insurance in {CITY}?",
+      { "@type": "Question", "name": "How much is {PRODUCT} insurance in Gillette, WY?",
         "acceptedAnswer": { "@type": "Answer", "text": "{ANSWER_1}" } },
-      { "@type": "Question", "name": "Why use an independent agent instead of buying online?",
-        "acceptedAnswer": { "@type": "Answer", "text": "An independent agent compares coverage and prices from multiple carriers for you, explains the differences, and helps when you have a claim. {AGENCY} works with {N}+ carriers." } },
+      { "@type": "Question", "name": "Why work with a local State Farm agent instead of buying online?",
+        "acceptedAnswer": { "@type": "Answer", "text": "A local agent reviews your coverage with you, finds discounts you qualify for, and helps when you file a claim. Our Gillette team knows Northeast Wyoming risks like hail, wildlife collisions, and harsh winters." } },
       { "@type": "Question", "name": "{LOCAL_QUESTION}",
         "acceptedAnswer": { "@type": "Answer", "text": "{ANSWER_3}" } }
     ]
@@ -63,7 +64,7 @@
 <body>
   <div class="wrap">
     <header class="top">
-      <strong>{AGENCY}</strong>
+      <strong>Todd Butzine - State Farm Insurance Agent</strong>
       <a class="call" href="tel:{PHONE_DIGITS}">Call {PHONE}</a>
     </header>
   </div>
@@ -71,11 +72,11 @@
   <div class="hero">
     <div class="wrap hero-grid">
       <div>
-        <h1>{PRODUCT} Insurance in {CITY}, {STATE}</h1>
-        <p><strong>One local agent. {N}+ insurance companies. We shop, you save time.</strong></p>
-        <p>As an independent agency, {AGENCY} compares {PRODUCT_LOWER} insurance from carriers like
-          {CARRIERS} to find the right coverage at the right price for {CITY} {households/businesses}.</p>
-        <p class="trust">★ {RATING} from {REVIEW_COUNT}+ Google reviews · Serving {CITY} since {YEAR} · Licensed in {STATE} (#{LICENSE_NO})</p>
+        <h1>{PRODUCT} Insurance in Gillette, WY</h1>
+        <p><strong>Your Gillette State Farm agent: local people, fast answers, one place for everything you insure.</strong></p>
+        <p>Todd Butzine Insurance Agency helps Gillette and Campbell County families find the right
+          {PRODUCT_LOWER} coverage, with discounts for bundling auto, home, life, and recreational vehicles.</p>
+        <p class="trust">★ {RATING} from {REVIEW_COUNT}+ Google reviews · Serving Gillette since {YEAR} · Licensed in Wyoming (#{LICENSE_NO})</p>
       </div>
 
       <!-- Keep the form short: every extra field reduces conversions. -->
@@ -91,7 +92,7 @@
         <input id="zip" name="zip" inputmode="numeric" autocomplete="postal-code" required>
         <label for="interest">I'm interested in</label>
         <select id="interest" name="interest">
-          <option>{PRODUCT}</option><option>Home + Auto bundle</option><option>Business</option><option>Life</option><option>Other</option>
+          <option>{PRODUCT}</option><option>Auto + Home bundle</option><option>Renters</option><option>ATV / RV / Boat</option><option>Life</option><option>Business</option><option>Other</option>
         </select>
         <!-- Hidden fields capture the lead source; see tracking/measurement-plan.md -->
         <input type="hidden" name="utm_source"><input type="hidden" name="utm_medium">
@@ -105,20 +106,20 @@
 
   <div class="wrap">
     <section>
-      <h2>Why {CITY} families choose {AGENCY}</h2>
+      <h2>Why Gillette families choose our office</h2>
       <div class="cards">
-        <div class="card"><strong>We shop {N}+ carriers</strong><p>One conversation, many quotes. No need to call around.</p></div>
+        <div class="card"><strong>Local Gillette team</strong><p>Call, text, or stop by. We answer the phone and know your name.</p></div>
         <div class="card"><strong>Local claims help</strong><p>When something happens, you call us, not a 1-800 number.</p></div>
         <div class="card"><strong>Annual coverage reviews</strong><p>We re-check your rates and coverage every year.</p></div>
-        <div class="card"><strong>Bundle and save</strong><p>Combining home, auto, and umbrella often lowers your total cost.</p></div>
+        <div class="card"><strong>Bundle and save</strong><p>Insuring auto, home, and toys together can unlock multi-line discounts.</p></div>
       </div>
     </section>
 
     <section>
-      <h2>{PRODUCT} insurance in {CITY}: what to know</h2>
+      <h2>{PRODUCT} insurance in Gillette: what to know</h2>
       <!-- [LOCAL DETAIL] 300–600 words of genuinely local information. Examples:
-           - Local risks: hail/wind season, flood zones along {RIVER}, wildfire, older housing stock in {NEIGHBORHOOD}
-           - {STATE} requirements (auto minimums, contractor licensing insurance requirements)
+           - Local risks: spring hail and wind, deer/antelope collisions on I-90 and WY-59, frozen pipes, grassland wildfire
+           - Wyoming requirements (auto minimum liability 25/50/20) and why most families carry more
            - Typical cost ranges you see in your own quotes (anonymized), and what drives them
            - Coverage gaps you commonly find (water backup, replacement cost, uninsured motorist) -->
       <p>{LOCAL_CONTENT}</p>
@@ -135,25 +136,25 @@
 
     <section>
       <h2>Frequently asked questions</h2>
-      <h3>How much is {PRODUCT_LOWER} insurance in {CITY}?</h3><p>{ANSWER_1}</p>
-      <h3>Why use an independent agent instead of buying online?</h3>
-      <p>An independent agent compares coverage and prices from multiple carriers for you, explains the differences, and helps when you have a claim. {AGENCY} works with {N}+ carriers.</p>
+      <h3>How much is {PRODUCT_LOWER} insurance in Gillette?</h3><p>{ANSWER_1}</p>
+      <h3>Why work with a local State Farm agent instead of buying online?</h3>
+      <p>A local agent reviews your coverage with you, finds discounts you qualify for, and helps when you file a claim. Our Gillette team knows Northeast Wyoming risks like hail, wildlife collisions, and harsh winters.</p>
       <h3>{LOCAL_QUESTION}</h3><p>{ANSWER_3}</p>
     </section>
 
     <section>
-      <h2>Serving {CITY} and nearby</h2>
-      <p>We insure clients in {CITY}, {NEIGHBOR_TOWNS}. Visit us at {ADDRESS}, or get a quote by phone or online.</p>
-      <p>Related: <a href="/home-insurance-{city}/">Home insurance</a> · <a href="/auto-insurance-{city}/">Auto insurance</a> · <a href="/business-insurance-{city}/">Business insurance</a></p>
+      <h2>Serving Gillette and Northeast Wyoming</h2>
+      <p>We serve Gillette, Wright, Moorcroft, Rozet, Recluse, Pine Haven, Sundance, and Upton. Visit us at {ADDRESS}, Gillette, WY {ZIP}, or get a quote by phone or online.</p>
+      <p>Related: <a href="/home-insurance-gillette-wy/">Home insurance</a> · <a href="/auto-insurance-gillette-wy/">Auto insurance</a> · <a href="/atv-rv-boat-insurance-wyoming/">ATV, RV &amp; boat insurance</a></p>
       <!-- Optional: embed Google Map iframe of your GBP listing here -->
     </section>
   </div>
 
   <footer>
     <div class="wrap">
-      <strong>{AGENCY}</strong><br>
-      {ADDRESS} · <a href="tel:{PHONE_DIGITS}">{PHONE}</a><br>
-      Licensed insurance agency in {STATE}, license #{LICENSE_NO}. Coverage subject to carrier underwriting and policy terms.
+      <strong>Todd Butzine Insurance Agency, Inc. - State Farm Agent</strong><br>
+      {ADDRESS}, Gillette, WY {ZIP} · <a href="tel:{PHONE_DIGITS}">{PHONE}</a><br>
+      Licensed in Wyoming, #{LICENSE_NO}. Coverage subject to policy terms, conditions, and underwriting. {STATE_FARM_REQUIRED_DISCLOSURES}
     </div>
   </footer>
 

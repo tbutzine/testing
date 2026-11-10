@@ -1,60 +1,70 @@
-# Google Business Profile (GBP) Playbook
+# Google Business Profile Playbook: Gillette
 
-GBP drives the **map pack**, the three local results that get most clicks for "insurance agent
-near me". It's free and is usually the single highest-ROI asset for a local agency.
+When someone in Gillette searches "State Farm near me" or "insurance agent Gillette", Google shows
+a **map pack** of three agents. Several State Farm offices compete for those three spots. Rankings
+depend mainly on **relevance, distance, and prominence** (reviews, activity, completeness). You
+can't change distance, so win on the other two.
 
 ## One-time setup
 
-- [ ] **Business name:** your real legal/DBA name only. Do *not* stuff keywords ("{AGENCY} – Cheap Auto
-      Insurance {CITY}"); it violates guidelines and risks suspension.
+- [ ] **Business name:** use exactly the format State Farm requires for agent listings (commonly
+      "Todd Butzine - State Farm Insurance Agent"; confirm). Don't add keywords like "Gillette WY
+      Auto Insurance" to the name; that violates Google's guidelines and risks suspension.
 - [ ] **Primary category:** `Insurance agency`
-- [ ] **Secondary categories** (pick the ones that match what you sell): `Auto insurance agency`,
-      `Home insurance agency`, `Life insurance agency`, `Insurance broker`,
-      `Business insurance` (if available), `Health insurance agency`
-- [ ] **Address and service area:** show the office address; add service areas for {CITY} plus {NEIGHBOR_TOWNS}
-- [ ] **Hours:** accurate, plus holiday hours. Consider "by appointment" evening hours if you offer them
-- [ ] **Phone:** use your call-tracking number as primary and your main line as an additional number
-- [ ] **Website link** with UTM: `https://{DOMAIN}/?utm_source=google&utm_medium=organic&utm_campaign=gbp`
-- [ ] **Appointment link:** your scheduling page (Calendly or similar) with UTM `utm_campaign=gbp-booking`
-- [ ] **Services:** add each line (Auto, Home, Renters, Condo, Landlord, Umbrella, Life, Business owners
-      policy, General liability, Workers' comp, Commercial auto…) each with a 1–2 sentence description
-- [ ] **Products:** add 4–6 "products" (e.g. "Home + Auto Bundle Review") with a photo and a CTA
-- [ ] **Description (750 characters):**
+- [ ] **Secondary categories:** `Auto insurance agency`, `Home insurance agency`, `Life insurance agency`
+      (add `Health insurance agency` / `Business insurance` only if you actively sell them)
+- [ ] **Address:** {ADDRESS}, Gillette, WY {ZIP}. Pin placed exactly on the building
+- [ ] **Service areas:** Gillette, Wright, Moorcroft, Rozet, Recluse, Pine Haven, Sundance, Upton
+- [ ] **Hours:** accurate, plus holiday hours. If you offer after-hours appointments, add them under "More hours"
+- [ ] **Phone:** office number (or approved tracking number as primary + main line as additional)
+- [ ] **Website:** your statefarm.com agent page, tagged
+      `{AGENT_PAGE_URL}?utm_source=google&utm_medium=organic&utm_campaign=gbp`
+      (if State Farm permits UTM parameters on agent URLs)
+- [ ] **Appointment link:** approved scheduling link, if available
+- [ ] **Services** (each with a 1–2 sentence Gillette-specific description):
+      Auto · Home · Renters · Condo · Life · Umbrella · ATV/UTV & Off-Road · Motorcycle · Boat ·
+      RV/Camper · Snowmobile · Manufactured/Mobile Home · Small Business · Business Auto · Farm/Ranch (only if offered)
+- [ ] **Description (750 characters; get it approved):**
 
-> {AGENCY} is an independent insurance agency serving {CITY} and {NEIGHBOR_TOWNS} since {YEAR}.
-> Because we're independent, we compare coverage and pricing from {N}+ carriers, including {CARRIERS},
-> to find the right fit for your home, auto, life, or business. You'll work with a licensed local
-> agent who reviews your coverage every year and helps when you file a claim. Stop by our office on
-> {STREET}, call {PHONE}, or request a quote online.
+> Todd Butzine Insurance Agency, Inc. is a local State Farm office serving Gillette and Campbell
+> County. Our team helps Northeast Wyoming families and businesses protect what matters: cars and
+> trucks, homes, renters, life, ATVs, campers, boats, and small businesses. We know local risks,
+> from spring hail to deer on I-90, and we review your coverage every year to make sure it still
+> fits. Stop by our office at {ADDRESS}, call {PHONE}, or request a quote online. New to Gillette?
+> We'll help you get insured quickly.
 
-- [ ] **Attributes:** veteran-owned, women-owned, wheelchair-accessible, languages spoken, online appointments
-- [ ] **Photos (upload 20+):** exterior with signage (helps people find you), interior, team, each agent
-      headshot, community events, logo, cover photo. Add 2–4 new photos every month.
+- [ ] **Attributes:** veteran-owned / women-led (if true), wheelchair accessible, online appointments, languages
+- [ ] **Photos (upload 25+ to start):** exterior with signage from the street (so people can find
+      you), interior, Todd's headshot, every team member, team at community events, branded logo
+      (per State Farm guidelines). Add 2–4 new photos every month: local events, team, seasonal.
 
-## Weekly post schedule (15 minutes)
+## Weekly post rotation (15 minutes; use State Farm–approved content where required)
 
-Rotate these four post types. Each post: 150–300 words, one photo, one CTA button.
-
-| Week | Type | Example |
+| Week | Type | Gillette examples |
 |---|---|---|
-| 1 | Seasonal tip | "Hail season in {CITY}: 3 things to check on your home policy" |
-| 2 | Offer / CTA | "Free 15-minute coverage review: we'll compare {N} carriers for you" |
-| 3 | Local / community | "Proud sponsor of {LOCAL TEAM/EVENT}" |
-| 4 | Client story (anonymized) | "How a {CITY} family saved by bundling home and auto" |
+| 1 | Seasonal tip | "Hail season in Gillette: check your roof deductible before May" · "Deer and antelope collisions peak in fall: does your policy cover them?" · "Frozen pipe prevention for Wyoming winters" |
+| 2 | Offer/CTA | "Free coverage review: 15 minutes, in office or by phone" · "New to Gillette? Get auto and renters set up in one stop" |
+| 3 | Community | Sponsorships, CAM-PLEX events, school sports, team volunteering |
+| 4 | Team / client spotlight | Introduce a team member; anonymized "how we helped" claim story |
+
+Seasonal calendar: **Mar–May** hail/roof, boats and campers · **Jun–Aug** RV/travel, teen drivers ·
+**Sep–Nov** hunting season, ATVs, wildlife collisions, winterizing · **Dec–Feb** snowmobiles, winter
+driving, frozen pipes, new-year coverage reviews.
 
 ## Q&A section
 
-Seed (from your own account) and answer common questions such as:
+Seed and answer these (from the business account):
 
-- Are you an independent agency? Which companies do you work with?
-- Can you help if I've been dropped or have tickets/accidents?
-- Do you insure contractors / landlords / {NICHE}?
-- Can I get a quote without coming into the office?
-- Do you help with claims?
+- Do you insure ATVs, side-by-sides, campers, and snowmobiles?
+- I just moved to Gillette. Can you help me switch my auto and renters insurance to Wyoming?
+- Can I get a quote by phone without coming in?
+- Do you help with claims after hail damage?
+- What discounts are available for bundling home and auto?
+- Do you serve Wright, Moorcroft, and Sundance?
 
-## Monthly GBP checks
+## Monthly GBP check
 
-- [ ] Review Performance: calls, website clicks, direction requests, search queries
-- [ ] Respond to every new review (see reviews playbook)
-- [ ] Check for suggested edits by the public and reject incorrect ones
-- [ ] Add new photos
+- [ ] Performance: calls, website clicks, direction requests, and the search terms people used
+- [ ] Compare your review count against the other Gillette State Farm offices
+- [ ] Reply to every review; reject incorrect public "suggested edits"
+- [ ] Add photos and confirm hours

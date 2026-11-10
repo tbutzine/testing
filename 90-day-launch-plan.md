@@ -1,59 +1,65 @@
-# 90-Day Launch Plan
+# 90-Day Launch Plan: Todd Butzine Insurance Agency (State Farm), Gillette
 
-Time estimates assume the owner or one staff member does the work about 4–6 hours a week.
+About 4–6 hours a week from Todd or one team member.
 
-## Days 1–14: Foundation (do these before spending on ads)
+## Week 0: Compliance and approvals (before anything goes live)
 
-- [ ] Replace placeholders across the repo (see README)
-- [ ] **Tracking first:** set up GA4, Google Search Console, and a call-tracking number
-      ([`tracking/measurement-plan.md`](tracking/measurement-plan.md))
-- [ ] Record baseline numbers in [`tracking/monthly-kpi-tracker.csv`](tracking/monthly-kpi-tracker.csv)
-- [ ] Claim and fully optimize Google Business Profile
+- [ ] Meet with your State Farm field leader / agency marketing support. Work through the question
+      list in the [README](README.md#️-read-first-state-farm-marketing-compliance)
+- [ ] Get the approved route for: paid search, Local Services Ads, call tracking, review-request
+      texts, and an agent-owned website (if any)
+- [ ] Ask about marketing co-op/reimbursement funds
+- [ ] Submit the ad copy ([`paid-search/ad-copy.md`](paid-search/ad-copy.md)) and review/referral
+      templates for approval
+
+## Days 1–14: Foundation
+
+- [ ] Record baselines in [`tracking/monthly-kpi-tracker.csv`](tracking/monthly-kpi-tracker.csv):
+      current review count/rating, GBP calls and clicks (last 90 days), new households/month
+- [ ] **Google Business Profile:** full optimization
       ([`local-presence/google-business-profile.md`](local-presence/google-business-profile.md))
-- [ ] Fix NAP on your top 10 citations (Bing Places, Apple Business Connect, Yelp, Facebook, BBB,
-      chamber of commerce, Trusted Choice, carrier "find an agent" pages)
-- [ ] Website quick wins: click-to-call header, short quote form, homepage title tag with {CITY},
-      add the [schema markup](seo/schema-insurance-agency.jsonld)
-- [ ] Start the review engine: send review requests to your 50 happiest clients
+- [ ] Look up every other Gillette State Farm office on Google Maps and note their review count,
+      rating, photo count, and posting frequency. That's the bar to beat.
+- [ ] **statefarm.com agent page:** complete every editable field (bio, photo, team, languages,
+      hours, products, community involvement)
+- [ ] Fix name/address/phone on Bing Places, Apple Business Connect, Facebook, Yelp, and the chamber
+- [ ] **Review engine:** request reviews from your 75 happiest clients
       ([`local-presence/reviews-playbook.md`](local-presence/reviews-playbook.md))
-- [ ] Apply for **Local Services Ads** (verification can take 2–4 weeks, so start now)
-- [ ] Write a lead response script and set a 5-minute response standard
+- [ ] Add a lead-source field/note to every new prospect
 
-## Days 15–30: Turn on paid search
+## Days 15–30: Paid search and partners
 
-- [ ] Build Google Ads campaigns per [`paid-search/google-ads-plan.md`](paid-search/google-ads-plan.md)
-- [ ] Import keywords from [`paid-search/google-ads-editor-import.csv`](paid-search/google-ads-editor-import.csv)
-- [ ] Apply the shared negative list ([`paid-search/negative-keywords.txt`](paid-search/negative-keywords.txt))
-- [ ] Set conversion tracking: calls 60s+, form submits, GBP calls
-- [ ] Publish the first two local landing pages: **Home Insurance {CITY}** and **Auto Insurance {CITY}**
-      using [`seo/local-landing-page-template.html`](seo/local-landing-page-template.html)
-- [ ] Start weekly GBP posts (15 minutes each)
-- [ ] Ask your current clients for referrals using the referral program launch email
+- [ ] Launch Google Ads through the approved route
+      ([`paid-search/google-ads-plan.md`](paid-search/google-ads-plan.md)), with the negative list
+- [ ] Apply for Local Services Ads if permitted
+- [ ] Start weekly GBP posts (rotate: seasonal tip, community, offer/CTA, team)
+- [ ] Meet 3 Gillette realtors and 2 mortgage lenders: offer fast binders and evidence of insurance
+      for closings
+- [ ] Join or re-engage with the Gillette Chamber of Commerce
 
-## Days 31–60: Expand and optimize
+## Days 31–60: Cross-sell and community
 
-- [ ] Weekly: review the search terms report, add negatives, pause keywords with spend > 2× target CPL and no leads
-- [ ] Publish Business Insurance {CITY} plus your **niche page #1** (e.g. contractor insurance)
-- [ ] LSA live: respond to every lead within 5 minutes and dispute invalid leads
-- [ ] Reach out to 5 realtors and 2 mortgage lenders (new-mover pipeline)
-- [ ] Launch the cross-sell email to monoline clients (auto-only gets a home/renters offer)
-- [ ] Submit to 10 more citations; join the local chamber
-- [ ] Target: 40+ total new reviews
+- [ ] Cross-sell campaign #1: auto-only households get a home/renters bundle review
+- [ ] Seasonal push: depends on launch month (see the calendar in [`retention/referral-and-cross-sell.md`](retention/referral-and-cross-sell.md))
+- [ ] Meet powersports/RV and auto dealers (ATV/UTV, campers, trucks)
+- [ ] Book one community sponsorship (Campbell County / Thunder Basin HS athletics, a CAM-PLEX event,
+      rodeo, 4-H, youth hockey) and ask for a link from the organization's website
+- [ ] Weekly: ads search-terms review and new negatives
+- [ ] Target: 45+ new reviews
 
-## Days 61–90: Compound
+## Days 61–90: Expand and review
 
-- [ ] Publish niche page #2 plus 2 neighbor-town pages ({NEIGHBOR_TOWNS})
-- [ ] Publish two helpful local blog posts (see the content calendar in [`seo/seo-plan.md`](seo/seo-plan.md))
-- [ ] Shift budget: move 20% from the worst-performing ad group to the best (or to LSA)
-- [ ] Sponsor or attend one community event; get a backlink from its website
-- [ ] Day-90 review: fill in the KPI tracker, compare against targets in [`strategy.md`](strategy.md),
-      decide whether to scale (Growth tier) or reallocate
+- [ ] Add Wright / Moorcroft / Sundance ad groups if Gillette campaigns are profitable
+- [ ] Cross-sell campaign #2: life insurance reviews for households with kids or mortgages
+- [ ] Apartment complex outreach: renters insurance for new tenants (with manager permission)
+- [ ] Day-90 review: compare KPIs against targets in [`strategy.md`](strategy.md); shift budget to
+      the channel with the lowest cost per new household
 
 ## Ongoing rhythm
 
 | Frequency | Task | Time |
 |---|---|---|
-| Daily | Respond to leads (≤5 min), reply to reviews | 15 min |
-| Weekly | GBP post, ads search-term review, send review requests to new clients | 1 hr |
-| Monthly | 2 SEO pages/posts, KPI tracker, budget reallocation, cross-sell email | 4 hrs |
-| Quarterly | Offer review, landing page tests, partner check-ins | 3 hrs |
+| Daily | Answer leads within 5 minutes; reply to reviews | 15 min |
+| Weekly | GBP post; send review requests to new clients; ads search-terms check | 1 hr |
+| Monthly | KPI tracker; cross-sell email; partner touch-base; 2–4 new photos | 3–4 hrs |
+| Quarterly | Seasonal campaign; sponsorship; ad copy refresh (re-approve as needed) | 3 hrs |

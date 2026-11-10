@@ -1,118 +1,108 @@
-# Google Ads Plan (Cost-Effective Local Search)
+# Google Ads Plan: Gillette State Farm Agency
 
-**Philosophy:** small budget, tight targeting. Only bid where intent is high *and* a local agent has
-an edge. Avoid broad national terms ("car insurance", "cheap car insurance") where clicks often cost
-$30–$60+ and you compete with GEICO and Progressive budgets.
+> **First confirm the approved route.** Many captive carriers require agents to run paid search
+> through a corporate program or approved vendor, and control bidding on their brand name. Ask your
+> State Farm field leader before building anything. Use this plan as your spec for the vendor or
+> program, or to build the account yourself if self-managed ads are allowed.
 
-## 1. Paid search stack and budget split ($1,200/mo paid media)
+## Why paid search works in Gillette
 
-| Program | Monthly | Notes |
+- **Low competition:** a small market means far lower CPCs than Denver or national terms
+  (expect roughly $3–$12 for most local terms, vs. $30+ nationally)
+- **Low volume:** the opposite problem. You may not be able to spend a large budget efficiently.
+  Start at about $500/mo and raise it only if impression share is limited by budget.
+- **The prize:** "State Farm Gillette" and "insurance agent Gillette" searchers already want a local
+  agent. Ads let you appear above other State Farm offices that rely only on Maps.
+
+## 1. Budget split (about $500/mo Search + $300/mo LSA if permitted)
+
+| Campaign | Monthly | Daily |
 |---|---|---|
-| **Local Services Ads** | $500 | Pay per lead, top of page, "Google Screened" badge. See [`local-services-ads.md`](local-services-ads.md) |
-| **Search: Brand** | $50 | Protect your name from competitors bidding on it; very cheap clicks |
-| **Search: Local Agency / Bundle** | $300 | "insurance agent {city}", "home and auto insurance {city}" |
-| **Search: Commercial Lines** | $250 | Business, contractor, and niche terms (higher premium, lower competition) |
-| **Search: Home / Landlord** | $100 | Home insurance {city}, landlord insurance |
-| **Total** | **$1,200** | about $40/day for Search; LSA billed per lead |
+| Brand + Agent ("state farm gillette", "insurance agent gillette") | $200 | about $6.50 |
+| Auto + Home Gillette | $175 | about $5.75 |
+| Toys: ATV/RV/Boat/Snowmobile (seasonal) | $75 | about $2.50 |
+| New to Gillette / Renters | $50 | about $1.65 |
+| **Search total** | **$500** | |
 
-Auto-only keywords are intentionally limited to exact/phrase "{city}" modifiers, because auto CPCs are
-the most expensive and lowest-margin. Let the bundle message capture auto shoppers instead.
+Move budget seasonally: Toys up in **Mar–May** (boats/campers) and **Sep–Nov** (hunting ATVs);
+home/hail in **Mar–Jun**; new-mover terms in **May–Aug** (peak moving season).
 
-## 2. Account settings (get these right; they prevent most wasted spend)
+## 2. Settings that prevent wasted spend
 
-| Setting | Value | Why |
-|---|---|---|
-| Campaign type | Search only | Turn **off** Display Network and Search Partners at launch |
-| Locations | Radius of 10–20 miles around office **or** list of ZIPs/cities you serve | Keep it tight |
-| Location option | **"Presence: people in or regularly in your targeted locations"** | Default "presence or interest" wastes money on out-of-area clicks |
-| Ad schedule | Business hours + 1 hr before/after; reduce bids or pause overnight | Leads that can't reach you go cold |
-| Devices | All; watch mobile calls | Many insurance leads call from mobile |
-| Bidding (launch) | **Maximize Clicks with a max CPC cap** (e.g. $12–$15) for weeks 1–4 | Gathers data without runaway CPCs |
-| Bidding (after 15–30 conversions) | **Maximize Conversions**, then **Target CPA** at about 1.2× actual CPA | Let Google optimize once it has data |
-| Match types | Phrase and exact; broad only later with Smart Bidding + strong negatives | Control |
-| Auto-applied recommendations | **Turn off** | Prevents Google from adding broad keywords and raising budgets |
-| Conversion goals | Calls ≥60s from ads, calls from website ≥60s, form submit (thank-you page), GBP calls | Count only real leads |
-| Audiences (observation) | In-market: auto insurance, home insurance, business insurance; Life events: recently moved, purchased home | Observe first, then bid up winners |
+| Setting | Value |
+|---|---|
+| Campaign type | Search only. Display Network **off**, Search Partners **off** at launch |
+| Locations | Campbell County, WY + 15-mile radius around Wright and Moorcroft (add Crook County/Sundance in the Growth tier) |
+| Location option | **"Presence: people in or regularly in your targeted locations"** (*not* "interest") |
+| Ad schedule | Office hours + 1 hr either side; lower bids overnight unless calls forward to someone |
+| Bidding (weeks 1–4) | Maximize Clicks with a **$10 max CPC cap** |
+| Bidding (after about 15 conversions) | Maximize Conversions; later Target CPA at about 1.2× actual |
+| Match types | Exact and phrase. Low local volume means don't over-split; keep ad groups broad enough to get data |
+| Auto-applied recommendations | **Off** |
+| Conversions | Calls ≥60 sec from ads (call asset), website calls ≥60 sec, quote/contact form submit |
+| Audiences (observation) | In-market: auto insurance, home insurance; Life events: recently moved, purchased a home |
 
-## 3. Campaign and ad group structure
+## 3. Campaign structure
 
 ```
-Campaign: Brand                         ($50/mo)
-  └─ {agency name}, {agency name} insurance, {owner name} insurance
+Brand + Agent          (only bid on "State Farm" terms if permitted)
+  ├─ State Farm Gillette     [state farm gillette], "state farm agent gillette", "state farm insurance gillette wy"
+  ├─ State Farm Near Me      [state farm near me], [state farm agent near me], [state farm office near me]
+  └─ Insurance Agent         "insurance agent gillette", "insurance agency gillette wy", [insurance agent near me]
 
-Campaign: Local Agency + Bundle         ($300/mo)
-  ├─ Insurance Agent {City}             "insurance agent {city}", "insurance agency near me"
-  ├─ Independent Agent                  "independent insurance agent {city}", "insurance broker {city}"
-  └─ Home + Auto Bundle                 "home and auto insurance {city}", "bundle home and auto insurance"
+Auto + Home Gillette
+  ├─ Auto                    "car insurance gillette", "auto insurance gillette wy", "truck insurance wyoming"
+  └─ Home / Bundle           "home insurance gillette", "homeowners insurance gillette wy", "home and auto insurance"
 
-Campaign: Commercial Lines              ($250/mo)
-  ├─ Business Insurance {City}          "business insurance {city}", "small business insurance {city}"
-  ├─ General Liability                  "general liability insurance {city}"
-  ├─ Contractor (niche #1)              "contractor insurance {state}", "handyman insurance"
-  └─ Workers Comp / Commercial Auto     "workers comp insurance {state}"
+Toys (seasonal)
+  ├─ ATV/UTV                 "atv insurance", "side by side insurance", "utv insurance"
+  ├─ RV/Camper               "rv insurance", "camper insurance", "travel trailer insurance"
+  └─ Boat/Snowmobile         "boat insurance", "snowmobile insurance"
 
-Campaign: Home / Landlord               ($100/mo)
-  ├─ Home Insurance {City}              "home insurance {city}", "homeowners insurance {city}"
-  └─ Landlord                           "landlord insurance {city}", "rental property insurance"
+New to Gillette / Renters
+  ├─ New Resident            "car insurance wyoming new resident", "transfer car insurance to wyoming"
+  └─ Renters                 "renters insurance gillette", "renters insurance near me"
 ```
 
-Ready-to-import keywords: [`google-ads-editor-import.csv`](google-ads-editor-import.csv).
-Ad copy: [`ad-copy.md`](ad-copy.md). Negatives: [`negative-keywords.txt`](negative-keywords.txt).
+Because the location is set to Gillette, toy and generic terms ("atv insurance") only show to people
+in your area, so they don't need "gillette" in the keyword.
 
-**Landing pages:** send each ad group to its matching local page (built from
-[`../seo/local-landing-page-template.html`](../seo/local-landing-page-template.html)), never to the homepage.
+Ready to import: [`google-ads-editor-import.csv`](google-ads-editor-import.csv) ·
+Negatives: [`negative-keywords.txt`](negative-keywords.txt) · Copy: [`ad-copy.md`](ad-copy.md)
 
-**Final URL tracking template** (account level):
-```
-{lpurl}?utm_source=google&utm_medium=cpc&utm_campaign={_campaign}&utm_term={keyword}&utm_content={creative}
-```
-Set custom parameter `{_campaign}` per campaign (e.g. `commercial`). Enable auto-tagging (gclid).
+**Landing page:** your statefarm.com agent page (or a matching product page on an approved agent
+site). Ad message and landing page should match: an ATV ad shouldn't land on a generic page if a
+better one exists.
 
-## 4. Assets (ad extensions), all free to add
+## 4. Assets (free; add all)
 
-- **Call asset:** Google forwarding number, call reporting on, scheduled to business hours
-- **Location asset:** link GBP (shows address and distance)
-- **Sitelinks (4+):** Get a Quote · Home Insurance · Business Insurance · Reviews · About Our Agents
-- **Callouts:** Local {CITY} Agents · {N}+ Carriers Compared · Free Coverage Review · Claims Help · Bundle & Save
-- **Structured snippets (Types):** Home, Auto, Business, Life, Umbrella, Landlord
-- **Image assets:** office/team photos (not stock)
-- **Lead form asset (optional test):** only if you can follow up within 5 minutes
+- **Call asset** (business hours) and **location asset** (link GBP: shows "Gillette, WY · 1.2 mi")
+- **Sitelinks:** Get a Quote · Auto Insurance · Home Insurance · ATV & RV · Meet Our Team · Directions
+- **Callouts:** Local Gillette Office · Bundle & Save · Free Coverage Review · Claims Help · Walk-Ins Welcome
+- **Structured snippet (Types):** Auto, Home, Renters, Life, ATV/UTV, RV, Boat
+- **Image assets:** real office/team photos
 
 ## 5. Optimization routine
 
-**Weekly (30 min)**
-1. **Search terms report:** add irrelevant queries to the negative list (jobs, cheap/free, claims numbers, specific carriers you don't write, out-of-area towns)
-2. Check that calls were real leads; mark junk
-3. Pause keywords with spend > 2× target CPL and 0 conversions
-4. Check impression share lost to budget on your best campaign; move money there from the weakest
+**Weekly (20 min):** search terms report, then add negatives (State Farm Arena/Stadium, logins,
+claims phone numbers, jobs, other towns); listen to or check calls; pause keywords with $60+ spend
+and no leads.
 
-**Monthly (1 hr)**
-1. Compare cost per lead and **cost per bound policy** by campaign (requires lead source in your AMS/CRM)
-2. Reallocate budget toward the lowest cost per *bound* policy, not just per lead
-3. Test one new RSA headline set per ad group; remove assets rated "Low"
-4. Review geographic report: exclude ZIPs with spend and no leads; raise bids in ZIPs that convert
-5. Check the ad schedule report; lower bids in hours that never convert
+**Monthly (45 min):** cost per lead and **cost per new household** by campaign; shift budget toward
+the best; check "impression share lost to budget" on Brand + Agent (it should be under 10%); refresh
+seasonal campaigns.
 
-**Quarterly**
-- Once each campaign has 30+ conversions/month, test Target CPA
-- Consider adding a small **remarketing** or **Performance Max** campaign only after Search is profitable
+## 6. Benchmarks for Gillette (adjust after 60 days)
 
-## 6. Benchmarks to judge results (local agency, 2026 rough ranges)
-
-| Metric | Healthy range | Action if off |
+| Metric | Target | If off |
 |---|---|---|
-| CTR | 6–12% | Below 4%: rewrite ads, tighten keywords |
-| Avg CPC (local/commercial) | $6–$20 | Above $25: switch to exact match, add negatives, lower cap |
-| Landing page conversion rate | 8–15% | Below 5%: shorten form, add phone and reviews above the fold |
-| Cost per lead | $35–$75 | Above $100 for 30 days: pause that ad group |
-| Lead-to-bind | 20–35% | Below 15%: fix speed-to-lead and follow-up cadence |
+| CTR | 8%+ (brand 15%+) | Rewrite headlines; add "Gillette" to headline 1 |
+| Avg CPC | $3–$12 | Tighten match types, add negatives |
+| Cost per lead | $25–$50 | Above $75 for 30 days: pause that ad group |
+| Leads answered within 5 min | 90%+ | Process/staffing fix, not an ads fix |
 
-These vary heavily by state and line of business. Your own first 60 days of data replace them.
+## 7. Compliance
 
-## 7. Policy and compliance notes
-
-- Google treats insurance as a sensitive financial category in some regions. Verify any financial
-  services verification requirement in your Ads account for your country/state.
-- Don't make unsubstantiated claims ("lowest rates", "save 40%"). Use "compare", "shop", "could save".
-- Include required state disclosures (some states require agency name and license number in ads).
-- Don't use carrier trademarks in ad text unless your agency agreement allows it.
+- All ad text pre-approved per State Farm requirements; include any required disclosures
+- No "cheapest", "lowest rates", or unsubstantiated savings percentages
+- Follow Wyoming Department of Insurance advertising rules

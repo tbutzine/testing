@@ -1,20 +1,18 @@
 priority,directory,url,cost,status,nap_verified,notes
-1,Google Business Profile,https://business.google.com,Free,,,Primary local asset
+1,Google Business Profile,https://business.google.com,Free,,,Primary local asset; name format per State Farm
+1,statefarm.com agent page,{AGENT_PAGE_URL},Included,,,Complete every editable field; must match GBP exactly
 1,Bing Places,https://www.bingplaces.com,Free,,,Can import from GBP
-1,Apple Business Connect,https://businessconnect.apple.com,Free,,,Powers Apple Maps / Siri
-1,Facebook Page,https://www.facebook.com/pages/create,Free,,,Match NAP and hours exactly
-1,Yelp for Business,https://biz.yelp.com,Free,,,Do not pay for Yelp ads initially
-1,Carrier "Find an Agent" listings,Each carrier agent portal,Free,,,Ask each carrier rep to update/verify your listing - strong local backlinks
-1,Trusted Choice,https://www.trustedchoice.com,Membership via Big I,,,Independent agent directory
-2,Better Business Bureau,https://www.bbb.org,Free listing / paid accreditation,,,
-2,Local Chamber of Commerce,{CITY} chamber website,Membership fee,,,Strong local backlink + networking
-2,LinkedIn Company Page,https://www.linkedin.com/company/setup,Free,,,Important for commercial lines
-2,Nextdoor Business,https://business.nextdoor.com,Free,,,Neighborhood recommendations
+1,Apple Business Connect,https://businessconnect.apple.com,Free,,,Powers Apple Maps / Siri on iPhones
+1,Facebook Page,https://www.facebook.com,Free,,,Follow State Farm social media guidelines
+1,Gillette Chamber of Commerce,Chamber member directory,Membership,,,Strong local backlink + networking
+2,Yelp for Business,https://biz.yelp.com,Free,,,Claim and verify; skip paid Yelp ads
+2,Nextdoor Business,https://business.nextdoor.com,Free,,,Neighbors recommend agents here
+2,Better Business Bureau,https://www.bbb.org,Free listing,,,
+2,LinkedIn (Todd + company page),https://www.linkedin.com,Free,,,Business owner and commercial prospects
 2,Yellow Pages (YP.com),https://www.yellowpages.com,Free,,,
 2,Foursquare,https://foursquare.com,Free,,,Feeds many apps
-2,Data aggregators (Data Axle; Neustar Localeze),Via aggregator sites,Free-$,,,Pushes NAP to many smaller sites
-3,Manta,https://www.manta.com,Free,,,
-3,Angi,https://www.angi.com,Free,,,
-3,Local newspaper business directory,Local site,Varies,,,
-3,Big I state association directory,State association site,Membership,,,
-3,Local BNI / Rotary / civic club sites,Local,Membership,,,Backlink + referrals
+3,Local news business directory (e.g. Gillette News Record),Local site,Varies,,,
+3,Campbell County / Thunder Basin HS booster sponsor pages,School/booster sites,Sponsorship,,,Backlink from sponsorship
+3,CAM-PLEX event sponsor pages,Event sites,Sponsorship,,,Backlink from sponsorship
+3,Rotary / Kiwanis / Lions / BNI chapter sites,Local,Membership,,,Backlink + referrals
+3,Energy Capital Economic Development / local business associations,Local,Membership,,,

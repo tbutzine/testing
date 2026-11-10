@@ -1,37 +1,30 @@
-# Google Local Services Ads (LSA)
+# Google Local Services Ads (LSA): only if State Farm permits
 
-LSAs appear **above** regular search ads with a "Google Screened" badge, your review rating, and a
-call button. You pay **per lead** (a call or message), not per click, which makes them the most
-budget-safe paid channel for a small agency.
+LSAs show at the very top of Google with a "Google Screened" badge, your rating, and a call button.
+You pay **per lead**, not per click, so they suit a small budget, *if* insurance agency LSAs are
+available in Gillette **and** State Farm allows agents to use them (ask first; some carriers run
+this through a corporate program).
 
-> Availability and verification requirements vary by country, state, and city, and Google changes
-> them. Check eligibility at `ads.google.com/local-services-ads` for "Insurance agency" in your market.
-> If LSA isn't available, move this budget to the Search campaigns.
+If either answer is no, move the $300/mo to the Search Brand + Agent and Auto + Home campaigns.
 
-## Setup checklist
+## Setup
 
-- [ ] Start the application in week 1 (verification commonly takes 2–4+ weeks)
-- [ ] Business verification: business license, agency insurance license(s), and proof of
-      E&O/business insurance as requested
-- [ ] Background checks for owner/agents if required for Google Screened
-- [ ] Link your Google Business Profile (reviews carry over and drive ranking)
-- [ ] Select service types/lines you actually write (home, auto, life, business…)
-- [ ] Service area: the same towns/ZIPs as your Search campaigns
-- [ ] Business hours: LSA ranks businesses that answer, so only list hours you can pick up
-- [ ] Bidding: start with **Maximize leads** and a weekly budget (about $115/week = $500/mo)
-- [ ] Turn on message leads if someone can reply within minutes
+- [ ] Confirm eligibility at `ads.google.com/local-services-ads` for "Insurance agency" in Gillette, WY 82716/82718
+- [ ] Apply in week 1; verification (licenses, business documents, possible background checks) takes weeks
+- [ ] Link your Google Business Profile (LSA ranking leans heavily on reviews)
+- [ ] Service area: Gillette and Campbell County (add Wright/Moorcroft if desired)
+- [ ] Only list hours when someone can answer live
+- [ ] Budget: about $70/week; bidding: Maximize leads
 
-## Lead handling (this is what determines LSA ROI)
+## Lead handling
 
-1. **Answer live.** Missed calls hurt ranking and waste leads. Forward to a cell after hours if possible.
-2. **Respond to messages within 5 minutes.**
-3. **Mark every lead's status** in the LSA app (booked, archived, etc.); responsiveness affects ranking.
-4. **Dispute invalid leads** (wrong service, spam, job seekers, existing clients calling service)
-   within the allowed window to get credited.
-5. **Ask happy LSA clients for a Google review.** Review count and rating are strong LSA ranking factors.
+1. Answer every call live; missed calls hurt ranking
+2. Reply to message leads within 5 minutes
+3. Mark lead status in the LSA app
+4. Dispute invalid leads (existing State Farm customers seeking corporate service, job seekers, spam)
+5. Ask LSA clients who become customers for a Google review
 
-## Track it
+## Track
 
-- Log LSA leads with source = `google_lsa` in your AMS/CRM
-- Monthly: leads, cost, cost/lead, quotes, binds, cost per bind; compare against Search campaigns
-- If LSA cost per bind beats Search, shift budget toward LSA (and vice versa)
+Source = `Google LSA` on every lead. Compare cost per new household against Search monthly and
+shift budget to the cheaper one.

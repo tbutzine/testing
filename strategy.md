@@ -1,82 +1,102 @@
-# Marketing Strategy
+# Marketing Strategy: Gillette, WY
 
-## 1. Situation
+## 1. Market snapshot
 
-- **Competitors:** national direct writers with huge budgets, captive agents (State Farm,
-  Allstate, Farmers) with brand recognition, and other independents in town.
-- **Your advantages as a local independent agency:** you **shop multiple carriers** for the
-  client, you offer **a local person to call at claim time**, you can handle **bundles and harder
-  risks**, and you have **community relationships**.
-- **Implication:** don't fight on price-shopping head terms. Fight on *local + advice + choice*.
+- **Gillette / Campbell County:** about 33,000 people in the city and roughly 47,000 in the county
+  (verify current census figures). An energy economy (Powder River Basin coal, oil and gas) means
+  many trucks, long commutes, shift workers, and people moving in and out of town as energy jobs
+  come and go.
+- **Trade area:** Gillette, Wright, Moorcroft, Rozet, Recluse, Pine Haven, Sundance, Upton
+- **Local risks that drive insurance conversations:**
+  - **Hail and wind** (roofs, vehicles), harsh winters, frozen pipes
+  - **Wildlife collisions** (deer and antelope), plus long highway miles on I-90, WY-59, and US-14/16
+  - Grassland wildfire on rural and acreage properties
+  - Recreational "toys": ATVs/UTVs, campers, boats at Keyhole, snowmobiles, trailers
+- **Wyoming auto minimum liability:** 25/50/20. Most families should carry more, which makes a good
+  opening for an annual-review conversation.
 
-## 2. Positioning statement
+## 2. Competitive position
 
-> For families and small businesses in {CITY} and {NEIGHBOR_TOWNS} who want the right coverage
-> without the runaround, {AGENCY} is the local independent agency that compares {N}+ carriers
-> for you and is still there when you file a claim. Unlike call centers, you get one local agent
-> who knows your name.
+You're not competing to sell State Farm against other companies so much as competing with:
 
-**Core message:** *"One local agent. Many carriers. We shop, you save time."*
+1. **Other State Farm agents in Gillette.** People who already want State Farm still pick *an
+   agent*. You win on reviews, Google Maps visibility, responsiveness, and community presence.
+2. **Other captive agents** (Farmers, Allstate, American Family, etc.) and **local independents**,
+   which can shop several carriers.
+3. **Direct/online writers** (GEICO, Progressive), which compete on price for auto-only shoppers.
 
-## 3. Target segments (prioritized by value ÷ acquisition cost)
+**Your advantages:** the State Farm brand and financial strength; one local office for auto, home,
+life, renters, toys, and small business; a Gillette team people can visit; claims guidance; and
+community roots.
 
-| Priority | Segment | Why | Primary channels |
+## 3. Positioning
+
+> For Gillette and Campbell County families and small businesses, Todd Butzine Insurance Agency is
+> the local State Farm office that knows Northeast Wyoming, from hail season to hunting season. You
+> get a real Gillette team that answers the phone, reviews your coverage every year, and helps when
+> you file a claim.
+
+**Core message:** *"Your Gillette State Farm agent: local people, fast answers, one place for
+everything you insure."* Run any use of State Farm taglines through State Farm brand guidelines.
+
+**Never say:** "we compare carriers", "lowest rates", or "guaranteed savings". Use "could save",
+"discounts available", "bundle", and "review your coverage".
+
+## 4. Target segments (prioritized)
+
+| Priority | Segment | Hook | Channels |
 |---|---|---|---|
-| 1 | **Home + auto bundlers** (homeowners aged 30–65) | Highest retention; 2+ policies per household | GBP, SEO, LSA, referrals |
-| 2 | **Small commercial** (contractors, restaurants, retail, trades) | High premium, low local ad competition | Search ads, SEO niche pages, networking |
-| 3 | **New movers / new home buyers** | Must buy home insurance; open to switching auto | Realtor and lender partnerships, SEO |
-| 4 | **Hard-to-place risks** (high-risk drivers, older homes, coastal/wildfire) | Captives and direct writers decline them | SEO pages, search ads |
-| 5 | **Life / umbrella cross-sell** | Existing book; near-zero acquisition cost | Email, annual reviews |
+| 1 | **Households moving to Gillette** (energy, healthcare, school jobs) | "New to Gillette? Get insured in one stop: auto, home/renters, Wyoming plates" | Realtors, lenders, apartment complexes, GBP, search |
+| 2 | **Home + auto bundle households** | Multi-line discount; hail-season roof/deductible review | GBP, search, cross-sell |
+| 3 | **"Toys" owners:** ATV/UTV, camper/RV, boat, snowmobile | Seasonal: spring (boats/campers), fall (hunting ATVs), winter (snowmobiles) | Cross-sell email, GBP posts, dealer partners |
+| 4 | **Young drivers / families with teens** | Student discounts, Steer Clear® / Drive Safe & Save® (confirm availability in WY) | High school sponsorships, cross-sell |
+| 5 | **Life insurance for existing clients** | Shift work and higher-risk jobs mean families need protection | Annual reviews |
+| 6 | **Small businesses** (retail, restaurants, service trades) | Business owners policy + business auto, within State Farm appetite | Chamber, BNI/networking, search |
 
-Choose **two niche specialties** (e.g. contractors + landlords) that match your carrier appetite
-and build dedicated pages and ad groups for them. Niches are where small agencies rank and convert
-cheaply.
+Higher-risk energy contracting (drilling, mining services) may fall outside State Farm's commercial
+appetite. Confirm before you target it.
 
-## 4. Channel strategy and budget logic
+## 5. Channel strategy
 
-| Channel | Role | Cost profile | Expected timeline |
-|---|---|---|---|
-| Google Business Profile + reviews | Map pack visibility, trust | Free (time) | Results in 30–90 days |
-| Local Services Ads | Highest-intent leads at top of page | Pay per lead | Leads in week 1–2 |
-| Google Search Ads | Control over specific high-margin queries | Pay per click | Leads in week 1 |
-| Local SEO (site + content) | Compounding free traffic | Time/content | 3–9 months |
-| Referrals & cross-sell | Cheapest new premium | Near-free | Ongoing |
-| Partnerships (realtors, lenders, auto dealers) | Steady warm referrals | Lunch/coffee | 1–3 months |
+| Channel | Role | Timeline |
+|---|---|---|
+| **Google Business Profile + reviews** | #1 lever against other State Farm agents in the map pack | 30–90 days |
+| **Community presence** (sports, CAM-PLEX events, rodeo, 4-H, chamber) | Trust and word of mouth in a small town | Ongoing |
+| **Referral partners** (realtors, lenders, auto/powersports dealers, apartments) | Steady flow of warm leads, especially new movers | 1–3 months |
+| **Google Search Ads** | Capture "State Farm Gillette" and product searches | Week 1 once approved |
+| **Local Services Ads** (if permitted) | Pay per lead at top of page | 2–4 weeks for verification |
+| **Agent page / SEO** | Make your statefarm.com page and GBP the best-optimized in town | 3–6 months |
+| **Cross-sell and retention** | Cheapest premium growth | Ongoing |
 
-**Channels deliberately excluded at the start:** broad Facebook/Meta lead ads (cheap leads but low
-quality for insurance), purchased internet leads (shared and expensive at $15–$40+ each with low
-close rates), and print/radio (hard to track). Revisit after month 6 if the core is profitable.
+**Skip for now:** purchased shared internet leads, broad Facebook lead ads, billboards/radio
+(hard to track). Revisit after month 6.
 
-## 5. Goals and KPIs (first 6 months)
+## 6. Goals and KPIs (first 6 months)
 
-| KPI | Baseline | 90-day target | 6-month target |
-|---|---|---|---|
-| Google reviews | count now | +25 | +60, rating ≥4.7 |
-| GBP calls + website clicks / mo | measure | +30% | +75% |
-| Organic sessions / mo | measure | +20% | +60% |
-| Qualified leads / mo (all channels) | measure | 25 | 45 |
-| Cost per qualified lead (paid) | n/a | ≤ $60 | ≤ $45 |
-| Quote-to-bind close rate | measure | 30% | 35% |
-| Policies per household | measure | +0.1 | +0.2 |
-| Referrals / mo | measure | 4 | 8 |
+| KPI | 90-day target | 6-month target |
+|---|---|---|
+| New Google reviews | +30 | +75 (rating ≥4.8) and the most reviews of any Gillette State Farm office |
+| GBP calls + website clicks | +30% | +75% |
+| Qualified new-prospect leads/mo | 20 | 35 |
+| Paid cost per lead | ≤ $45 | ≤ $35 |
+| Quote-to-close | 35% | 40% |
+| Policies per household | +0.1 | +0.25 |
+| Referrals/mo (clients + partners) | 6 | 12 |
+| Active referral partners | 5 | 10 |
 
-## 6. ROI math (why this is cost-effective)
+## 7. ROI math (replace with your agency's numbers)
 
-Example with assumptions you should replace with your own numbers:
+- $800/mo paid media yields about 20 leads ($40/lead)
+- 35% close rate gives **7 new households/mo**
+- Average household premium $2,800, at your State Farm compensation rate (enter your actual new
+  and renewal rates), gives your first-year and lifetime value per household
+- **Rule of thumb:** keep *cost per new household* under about 50% of first-year compensation. Cut
+  or fix any channel that misses this for 60 days.
 
-- Paid budget: $1,200/mo yields about 25 qualified leads (blended $48/lead)
-- Close rate 30% gives **7.5 new households/mo**
-- Average household premium $2,400 × 12% blended commission = **$288 first-year commission**
-- Retention 85% over a 5-year lifetime gives roughly **$1,100+ lifetime commission per household**
-- Acquisition cost: $1,200 ÷ 7.5 = **$160 per household**, about a **7:1 lifetime return**
+## 8. Agency basics checklist
 
-**Rule of thumb:** keep *cost per bound household* under about 50% of first-year commission. If a
-channel exceeds that for 60 days, cut it or fix it.
-
-## 7. Brand basics checklist
-
-- [ ] Consistent name, address, phone (NAP) everywhere, exactly the same format
-- [ ] Professional headshots of every agent plus office exterior/interior photos
-- [ ] A one-line value proposition used on the website, GBP, ads, and email signature
-- [ ] Quote form of 5 fields or fewer, plus click-to-call on mobile
-- [ ] Lead response within **5 minutes** during business hours (the biggest close-rate lever)
+- [ ] Answer calls live during business hours; speed-to-lead **under 5 minutes**
+- [ ] Professional photos of Todd, the team, and the office (exterior with signage)
+- [ ] One consistent name/address/phone format everywhere (match GBP and statefarm.com)
+- [ ] A short "new to Gillette" welcome packet for movers (approved by State Farm)
+- [ ] Ask every new caller "How did you hear about us?" and log it

@@ -1,77 +1,71 @@
-# Ad Copy: Responsive Search Ads
+# Ad Copy: Responsive Search Ads (submit for State Farm approval)
 
-Google RSA limits: up to 15 headlines (30 characters max) and 4 descriptions (90 characters max).
-Write at least 10 headlines per ad group. Pin **one** headline in position 1 with the keyword theme;
-leave the rest unpinned. Counts below assume a short city name, so check lengths after you fill in
-placeholders.
+Google limits: headlines 30 characters, descriptions 90 characters. Pin one keyword-matched
+headline in position 1; leave the rest unpinned. Remove any line State Farm doesn't approve,
+including use of the State Farm name, if brand use in ads is restricted.
 
-## Shared headlines (use in every ad group)
+## Shared headlines
 
-| Headline | Note |
+| Headline | Chars |
 |---|---|
-| Local {CITY} Insurance Agents | city |
-| We Compare {N}+ Carriers | proof of independence |
-| One Agent. Many Companies. | positioning |
-| Free Coverage Review | offer |
-| Get a Quote in Minutes | speed |
-| {RATING}★ From {COUNT}+ Neighbors | social proof (keep updated) |
-| Real Help at Claim Time | differentiator |
-| Call {AGENCY} Today | CTA |
-| Bundle Home & Auto | bundle |
-| Serving {CITY} Since {YEAR} | longevity |
-| Independent Agency, Local Team | positioning |
-| Talk to a Licensed Agent | trust |
+| Your Gillette State Farm Agent | 30 |
+| Local Gillette Insurance Team | 29 |
+| Free Coverage Review | 20 |
+| Call or Stop By Today | 21 |
+| Bundle Auto & Home Coverage | 27 |
+| Real Help With Claims | 21 |
+| {RATING}★ From Gillette Neighbors | about 30 (check after filling) |
+| Serving Campbell County | 23 |
+| Quotes by Phone or In Person | 28 |
+| Talk to a Local Agent Today | 27 |
+| Walk-Ins Welcome | 16 |
 
-## Ad group–specific headlines
+## Ad group headlines
 
-**Insurance Agent {City}**
-- Insurance Agent in {CITY}
-- {CITY} Independent Agency
-- Insurance Agency Near You
+**State Farm Gillette / Near Me**
+- State Farm Agent in Gillette
+- Todd Butzine - State Farm
+- Gillette State Farm Office
 
-**Home + Auto Bundle**
-- Home & Auto Insurance {CITY}
-- Bundle & Compare in One Call
-- Shop Home & Auto Together
+**Insurance Agent**
+- Insurance Agent in Gillette
+- Gillette Insurance Agency
 
-**Business Insurance**
-- Business Insurance {CITY}
-- Small Business Coverage
-- General Liability & BOP
-- Certificates Issued Fast
+**Auto**
+- Car Insurance in Gillette WY
+- Auto & Truck Insurance
+- Ask About Auto Discounts
 
-**Contractor (niche)**
-- Contractor Insurance {STATE}
-- GL, Workers Comp & Auto
-- Same-Day COIs Available
-- Coverage for the Trades
+**Home / Bundle**
+- Home Insurance in Gillette
+- Hail Season? Review Your Roof
+- Bundle Home & Auto Today
 
-**Home Insurance**
-- Home Insurance in {CITY}
-- Homeowners Quotes, {N}+ Cos.
-- Dropped or Non-Renewed? Call Us
+**Toys**
+- ATV & Side-by-Side Insurance
+- Insure Your Camper or RV
+- Boat & Snowmobile Coverage
+- Ready for Hunting Season?
 
-**Landlord**
-- Landlord Insurance {CITY}
-- Rental Property Coverage
-- Insure 1 to 20+ Rentals
+**New Resident / Renters**
+- New to Gillette? Start Here
+- Switch Your Insurance to WY
+- Renters Insurance Gillette
 
 ## Descriptions
 
-1. Independent agency in {CITY}. We compare {N}+ insurance companies so you don't have to call around.
-2. Talk to a licensed local agent, not a call center. Free quotes and coverage reviews. Call today.
-3. Home, auto, business & life. One local agent who reviews your coverage every year.
-4. Rated {RATING}★ by {COUNT}+ {CITY} neighbors. Get a fast, no-obligation quote online or by phone.
+1. Local Gillette State Farm office. Auto, home, renters, life & more. Call or stop by today.
+2. Get a quote by phone or in person from a team that knows Northeast Wyoming. Free reviews.
+3. Insure your car, home, ATV, camper & boat in one place. Ask about multi-line discounts.
+4. Moving to Gillette? We'll help you get auto and home or renters coverage set up fast.
 
-**Commercial-specific**
-- Coverage for {CITY} small businesses: GL, BOP, workers comp, commercial auto & more.
-- Contractors: fast certificates of insurance and coverage that meets {STATE} licensing requirements.
+**Seasonal**
+- Hail season is here. Review your roof coverage and deductible with your local agent.
+- Hunting season: make sure your ATV or side-by-side is covered. Call our Gillette office.
 
-## Copy rules
+## Rules
 
-- **Don't promise price.** Avoid "cheapest", "lowest rates", "guaranteed savings". Use "compare",
-  "shop", "could save".
-- Use the city name: it raises relevance and CTR for local searchers.
-- Match the landing page H1 to the ad's headline 1.
-- Update review count and rating quarterly.
-- Add state-required disclosures if your Department of Insurance requires them.
+- No "cheapest", "lowest rates", or specific savings percentages unless State Farm provides approved claims
+- Match headline 1 to the keyword theme (Gillette + product)
+- Update the review rating/count quarterly
+- Include required disclosures and keep approval records on file

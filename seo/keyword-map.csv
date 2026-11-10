@@ -1,19 +1,17 @@
-target_page,primary_keyword,secondary_keywords,intent,priority,also_bid_in_ads
-/,insurance agency {city},insurance agent {city}; independent insurance agent {city}; insurance agent near me; insurance broker {city},Commercial,1,Yes
-/home-insurance-{city}/,home insurance {city},homeowners insurance {city}; home insurance quote {city}; house insurance {city},Commercial,1,Yes
-/auto-insurance-{city}/,car insurance {city},auto insurance {city}; auto insurance agent {city}; car insurance quote {city},Commercial,1,Yes (exact/phrase only)
-/business-insurance-{city}/,business insurance {city},small business insurance {city}; commercial insurance {city}; general liability insurance {city},Commercial,1,Yes
-/business-insurance-{city}/contractor-insurance/,contractor insurance {state},contractor liability insurance {city}; general contractor insurance; handyman insurance {state},Commercial,2,Yes
-/business-insurance-{city}/restaurant-insurance/,restaurant insurance {city},restaurant liability insurance; food truck insurance {state},Commercial,3,Optional
-/life-insurance-{city}/,life insurance agent {city},term life insurance {city}; life insurance quote {city},Commercial,2,Optional
-/home-insurance-{city}/,home and auto insurance bundle {city},bundle home and auto insurance; home and auto insurance quotes,Commercial,2,Yes
-/landlord-insurance/,landlord insurance {city},rental property insurance {city}; dwelling fire policy {state},Commercial,2,Yes
-/umbrella-insurance/,umbrella insurance {city},personal umbrella policy; umbrella insurance cost,Commercial,3,No
-/renters-insurance/,renters insurance {city},cheap renters insurance {city},Commercial,3,No
-/areas-we-serve/{town}/,insurance agency {town},insurance agent {town}; home insurance {town},Commercial,3,Yes (geo ad groups)
-/blog/home-insurance-cost-{city}/,how much is home insurance in {city},average home insurance cost {state},Informational,2,No
-/blog/{state}-car-insurance-requirements/,{state} car insurance requirements,{state} minimum auto insurance,Informational,2,No
-/blog/contractor-insurance-requirements-{state}/,what insurance does a contractor need in {state},contractor license insurance requirements {state},Informational,3,No
-/blog/why-did-my-insurance-go-up/,why did my home insurance go up,home insurance rate increase {state},Informational,3,No
-/blog/independent-vs-captive-agent/,independent insurance agent vs captive,independent agent benefits,Informational,3,No
-/get-a-quote/,insurance quote {city},free insurance quote,Transactional,1,Landing page for ads
+target,primary_keyword,secondary_keywords,intent,priority,paid_search
+GBP + agent page,state farm gillette wy,state farm agent gillette; state farm insurance gillette; state farm near me; state farm office gillette,Brand/Commercial,1,Yes - if brand bidding is permitted
+GBP + agent page,insurance agent gillette wy,insurance agency gillette; insurance agents in gillette wyoming; insurance agent near me; local insurance agent,Commercial,1,Yes
+GBP + agent page / auto page,car insurance gillette wy,auto insurance gillette; car insurance quote gillette; truck insurance wyoming,Commercial,1,Yes (exact/phrase)
+GBP + agent page / home page,home insurance gillette wy,homeowners insurance gillette; house insurance gillette wyoming; home and auto insurance gillette,Commercial,1,Yes
+GBP + agent page,renters insurance gillette wy,apartment insurance gillette; renters insurance wyoming,Commercial,2,Yes (low bid)
+Toys page / GBP services,atv insurance wyoming,utv insurance; side by side insurance; off road vehicle insurance gillette,Commercial,2,Yes
+Toys page / GBP services,rv insurance gillette,camper insurance wyoming; travel trailer insurance; motorhome insurance,Commercial,2,Yes
+Toys page / GBP services,boat insurance wyoming,boat insurance keyhole; snowmobile insurance wyoming; motorcycle insurance gillette,Commercial,3,Yes (seasonal)
+Life page / GBP services,life insurance gillette wy,term life insurance gillette; life insurance agent near me,Commercial,2,Optional
+Business page / GBP services,business insurance gillette wy,small business insurance gillette; commercial auto insurance gillette; business owners policy wyoming,Commercial,2,Yes (within State Farm appetite)
+New-to-Gillette page / GBP post,moving to gillette wy insurance,new resident wyoming car insurance; wyoming license plates insurance; transfer car insurance to wyoming,Informational/Commercial,2,Yes
+Town page / GBP service area,insurance agent wright wy,state farm wright wy; car insurance wright wy,Commercial,3,Yes (Growth tier)
+Town page / GBP service area,insurance agent moorcroft wy,state farm moorcroft; insurance sundance wy; insurance upton wy,Commercial,3,Yes (Growth tier)
+Blog / GBP post,hail damage roof insurance claim wyoming,hail insurance deductible; roof claim gillette,Informational,3,No
+Blog / GBP post,hit a deer car insurance,deer collision comprehensive coverage; animal collision claim wyoming,Informational,3,No
+Blog / GBP post,wyoming minimum car insurance,wyoming auto insurance requirements; 25/50/20 wyoming,Informational,3,No

@@ -1,63 +1,47 @@
+<!--
+  USE ONLY ON AN AGENT-OWNED WEBSITE THAT STATE FARM HAS APPROVED.
+  Your statefarm.com agent page is managed by State Farm; don't try to add this there.
+  Fill the remaining {PLACEHOLDERS}, then validate at https://validator.schema.org
+  Do NOT add aggregateRating from your own Google reviews (self-serving review markup is ignored
+  by Google for local businesses and can trigger a manual action).
+-->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "InsuranceAgency",
-  "@id": "https://{DOMAIN}/#agency",
-  "name": "{AGENCY}",
-  "url": "https://{DOMAIN}/",
-  "logo": "https://{DOMAIN}/images/logo.png",
-  "image": "https://{DOMAIN}/images/office-exterior.jpg",
-  "description": "Independent insurance agency in {CITY}, {STATE} comparing {N}+ carriers for home, auto, life, and business insurance.",
+  "@id": "{SITE_URL}/#agency",
+  "name": "Todd Butzine - State Farm Insurance Agent",
+  "legalName": "Todd Butzine Insurance Agency, Inc.",
+  "url": "{SITE_URL}/",
+  "image": "{SITE_URL}/images/office-exterior.jpg",
+  "description": "Local State Farm insurance agency in Gillette, Wyoming serving Campbell County with auto, home, renters, life, ATV/RV/boat, and small business insurance.",
   "telephone": "{PHONE}",
-  "email": "info@{DOMAIN}",
-  "priceRange": "$$",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "{STREET}",
-    "addressLocality": "{CITY}",
-    "addressRegion": "{STATE}",
+    "streetAddress": "{ADDRESS}",
+    "addressLocality": "Gillette",
+    "addressRegion": "WY",
     "postalCode": "{ZIP}",
     "addressCountry": "US"
   },
-  "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": "{LAT}",
-    "longitude": "{LNG}"
-  },
+  "geo": { "@type": "GeoCoordinates", "latitude": "{LAT}", "longitude": "{LNG}" },
   "areaServed": [
-    { "@type": "City", "name": "{CITY}" },
-    { "@type": "City", "name": "{NEIGHBOR_TOWN_1}" },
-    { "@type": "City", "name": "{NEIGHBOR_TOWN_2}" }
+    { "@type": "City", "name": "Gillette, WY" },
+    { "@type": "City", "name": "Wright, WY" },
+    { "@type": "City", "name": "Moorcroft, WY" },
+    { "@type": "City", "name": "Sundance, WY" },
+    { "@type": "AdministrativeArea", "name": "Campbell County, WY" }
   ],
   "openingHoursSpecification": [
-    {
-      "@type": "OpeningHoursSpecification",
+    { "@type": "OpeningHoursSpecification",
       "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
-      "opens": "09:00",
-      "closes": "17:00"
-    }
+      "opens": "{OPEN}", "closes": "{CLOSE}" }
   ],
-  "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Insurance Services",
-    "itemListElement": [
-      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Home Insurance", "url": "https://{DOMAIN}/home-insurance-{city}/" } },
-      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Auto Insurance", "url": "https://{DOMAIN}/auto-insurance-{city}/" } },
-      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Business Insurance", "url": "https://{DOMAIN}/business-insurance-{city}/" } },
-      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Life Insurance", "url": "https://{DOMAIN}/life-insurance-{city}/" } }
-    ]
-  },
+  "brand": { "@type": "Brand", "name": "State Farm" },
   "sameAs": [
+    "{AGENT_PAGE_URL}",
     "{GOOGLE_BUSINESS_PROFILE_URL}",
-    "https://www.facebook.com/{FACEBOOK_HANDLE}",
-    "https://www.linkedin.com/company/{LINKEDIN_HANDLE}",
-    "https://www.yelp.com/biz/{YELP_SLUG}"
+    "{FACEBOOK_URL}"
   ]
 }
 </script>
-<!--
-  Place in the <head> of the homepage (and optionally site-wide).
-  Do NOT add "aggregateRating" from your own Google reviews: Google ignores
-  self-serving review markup for LocalBusiness types and it can trigger a manual action.
-  Validate at https://validator.schema.org and https://search.google.com/test/rich-results
--->

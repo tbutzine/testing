@@ -1,69 +1,70 @@
-# Reviews Playbook
+# Reviews Playbook: Todd Butzine State Farm, Gillette
 
-Review count, recency, and rating are among the strongest local ranking and conversion factors.
-**Goal:** 8–15 new Google reviews per month, every review answered within 48 hours.
+Reviews are the biggest lever for winning the map pack against other Gillette State Farm offices,
+and the first thing a new resident compares. **Goal: 10–15 new Google reviews per month, every
+review answered within 48 hours, and the most reviews of any agent in town within 6 months.**
+
+> Confirm with State Farm whether review requests must use specific approved wording or tools,
+> and follow its client-contact and texting consent rules.
 
 ## Your review link
 
-1. In GBP, choose **Ask for reviews** and copy the short link (`https://g.page/r/.../review`).
-2. Shorten it with a branded redirect such as `{DOMAIN}/review` to make it easy to say aloud.
-3. Make a QR code of that link for your desk, business cards, and policy delivery folders.
+1. In Google Business Profile, choose **Ask for reviews** and copy the short link.
+2. Print a QR code of it on a desk card, on business cards, and on policy delivery/welcome folders.
+3. Save it as a text-message shortcut on every team member's phone.
 
-## When to ask (moments of delight)
+## When to ask (every time, everyone)
 
-- Right after a policy is **bound** and the client said they're happy with the savings or coverage
-- After a **claim is resolved** smoothly
-- After an **annual review** where you found savings or closed a gap
-- When a client **thanks you** by email or phone (ask the same day)
+- Right after a policy is issued and the client says "thanks"
+- After a **claim is settled**, especially hail and auto claims
+- After an **annual review** where you found a discount or fixed a gap
+- When someone compliments the team by phone, email, or in the office (ask the same day)
 
-**Rules:** ask *everyone* at these moments. Don't filter only happy clients ("review gating" violates
-Google policy). Never offer incentives for reviews. Never write reviews for clients.
+**Google rules:** ask *all* clients at these moments; don't filter only happy ones ("review gating").
+No incentives for reviews, and never post reviews for clients.
+
+## Team scoreboard
+
+Track reviews mentioning each team member's name. Celebrate the monthly leader (a non-cash team
+recognition, per your agency's policy). That keeps asking a habit.
 
 ## Request templates
 
-**Text (send within 1 hour of the moment)** *(only to clients who have consented to texts)*
-> Hi {FirstName}, it's {Agent} at {AGENCY}. Thanks for trusting us with your insurance! If you have
-> 60 seconds, a Google review really helps a small local agency like ours: {DOMAIN}/review.
-> Thank you!
+**Text** (only to clients who have consented to texts)
+> Hi {FirstName}, it's {TeamMember} at Todd Butzine State Farm in Gillette. Thanks for letting us
+> help today! If you have a minute, a quick Google review means a lot to our local team: {REVIEW_LINK}
 
 **Email**
-> Subject: A quick favor, {FirstName}?
+> Subject: Quick favor from your Gillette State Farm team?
 >
 > Hi {FirstName},
 >
-> Thank you for choosing {AGENCY}. We're a small, local agency and most of our new clients find us
-> through reviews from neighbors like you.
+> Thank you for trusting our office with your insurance. A lot of Gillette families pick their
+> agent based on reviews from neighbors, so yours really helps.
 >
-> Would you take a minute to share your experience on Google?
-> 👉 {DOMAIN}/review
+> Would you share a sentence or two on Google? 👉 {REVIEW_LINK}
 >
-> Even a sentence or two (for example, what we helped you with) makes a big difference.
->
-> Thank you,
-> {Agent} | {AGENCY} | {PHONE}
+> Thank you!
+> {TeamMember} | Todd Butzine Insurance Agency, Inc. (State Farm) | {PHONE}
 
-**In person / on the phone**
-> "I'm really glad we could get that sorted out for you. Would you mind sharing that in a quick
-> Google review? I'll text you the link right now. It helps us more than you'd think."
+**In person**
+> "I'm glad we got that taken care of. Would you mind sharing that in a Google review? I'll text
+> you the link right now. It helps a small local office like ours a lot."
 
-**Follow-up (once, 5 days later, if no review)**
-> Hi {FirstName}, just a gentle reminder in case it got buried: {DOMAIN}/review. No worries if not.
+**One reminder, 5 days later**
+> Hi {FirstName}, just a friendly reminder in case it got buried: {REVIEW_LINK}. No worries if not.
 > Thanks again!
 
-## Responding to reviews
+## Replying to reviews
 
-Never confirm someone is a client or share policy details in a public reply (privacy).
+Never confirm policy details or claim specifics in a public reply.
 
 **Positive**
-> Thank you, {FirstName}! We loved helping you find better home and auto coverage here in {CITY}.
-> We're always a phone call away. — {Agent}
+> Thanks so much, {FirstName}! It was great working with you. We're always right here in Gillette
+> if you need anything. — Todd and team
 
-**Neutral / negative**
-> Thanks for the feedback. We're sorry your experience didn't meet expectations. We'd like to make
-> this right: please call me directly at {PHONE}. — {Owner name}, Owner
+**Negative/neutral**
+> Thank you for the feedback. We're sorry we fell short. Please call me directly at {PHONE} so I
+> can make this right. — Todd Butzine
 
-Then call the reviewer. Many will update their review once the issue is resolved.
-
-## Tracking
-
-Add to the monthly KPI tracker: total reviews, new reviews this month, average rating, response rate.
+Then call the reviewer the same day.

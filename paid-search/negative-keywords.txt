@@ -1,97 +1,98 @@
 # Shared negative keyword list for every Search campaign (phrase match unless noted).
-# In Google Ads: Tools > Shared library > Exclusion lists > + > paste > apply to all campaigns.
-# Remove a line if it describes something you DO sell (e.g. remove "health" if you write health).
+# Google Ads: Tools > Shared library > Exclusion lists > + > paste > apply to all campaigns.
+# Remove any line that describes something you DO want.
+
+# --- "State Farm" searches that are not insurance shoppers ---
+arena
+stadium
+state farm arena
+state farm stadium
+state farm center
+tickets
+concert
+seating chart
+commercial actor
+jake from state farm
+commercial song
+stock
+state farm bank
+mortgage rates
+credit card
+
+# --- Existing State Farm customers needing service (they'll find you anyway, or need corporate) ---
+login
+log in
+sign in
+pay bill
+pay my bill
+payment
+claims phone number
+claims number
+customer service number
+1-800
+800 number
+roadside assistance number
+app
+drive safe and save app
+id card
+cancel
 
 # --- Jobs / careers ---
 jobs
 job
 careers
-career
 hiring
 salary
-salaries
-employment
-license exam
-licensing course
-pre licensing
-become an agent
-how to become
-training
+become a state farm agent
+how to become an agent
+agent career
 internship
-resume
+license exam
+pre licensing
 
-# --- Existing-customer / service intent for other companies ---
-login
-log in
-sign in
-pay bill
-payment
-customer service
-phone number
-claims number
-file a claim
-cancel
-cancellation
-app
-portal
-
-# --- Direct writers and captive carriers (people looking for a specific brand) ---
-# Keep only if you do NOT represent them. Do not bid on brands you can't sell.
+# --- Other companies (people looking for a specific competitor) ---
 geico
-state farm
+progressive
 allstate
 farmers
-progressive
-usaa
-liberty mutual
-nationwide
 american family
+liberty mutual
+usaa
+nationwide
 lemonade
-root insurance
 
-# --- Research / DIY with low buying intent ---
-# (Don't add "free": "free insurance quote" is a high-intent search.)
+# --- Research / low-intent ---
 definition
 meaning
 what is
-wiki
 reddit
-template
-sample
-pdf
-statistics
-history
 lawsuit
 lawyer
 attorney
 complaint
 complaints
+reviews of state farm
+rating of state farm
+stock price
 
-# --- Products you likely don't sell (edit to match your agency) ---
-health
+# --- Products you likely don't sell through the agency (edit as needed) ---
 medicare
 medicaid
 obamacare
 dental
 vision
-pet
-travel
-phone insurance
-gadget
+pet insurance
+travel insurance
 title insurance
-mortgage insurance
-pmi
-flight
-rental car insurance
-crop
+phone insurance
+crop insurance
 
-# --- Out-of-area (add towns/states you can't serve) ---
-# {FAR_CITY_1}
-# {FAR_CITY_2}
-# {OTHER_STATE}
-
-# --- Low-quality / non-standard (remove if you specialize in these) ---
-# sr22
-# non owner
-# no license
-# cheapest
+# --- Out-of-area (add as the search terms report reveals them) ---
+casper
+cheyenne
+sheridan
+rock springs
+laramie
+billings
+rapid city
+denver

@@ -1,59 +1,43 @@
 # Measurement Plan
 
-You can't make marketing cost-effective without knowing which channel produced each **bound
-policy**, not just each click. Set this up before spending on ads.
+To keep marketing cost-effective, track which source produced each **new household**, not just
+clicks.
 
-## 1. Tools (mostly free)
+## 1. What you can track (depends on State Farm's tools)
 
 | Tool | Cost | Purpose |
 |---|---|---|
-| Google Analytics 4 | Free | Website traffic and conversions |
-| Google Search Console | Free | SEO queries, rankings, indexing |
-| Google Tag Manager | Free | Install tags without editing code |
-| Google Ads conversion tracking | Free | Feeds Smart Bidding |
-| Call tracking (CallRail, WhatConverts, or similar) | about $30–$50/mo | Which source made the phone ring; recordings for training |
-| Your AMS/CRM (e.g. EZLynx, HawkSoft, AMS360, Applied Epic) | Existing | **Lead source field** on every prospect and policy |
+| Google Business Profile Performance | Free | Calls, direction requests, website clicks, search terms |
+| Google Ads conversion tracking | Free | Calls ≥60 sec from ads, form leads |
+| Call tracking (only if State Farm permits and the number works with GBP rules) | about $30–$50/mo | Which source made the phone ring |
+| statefarm.com agent page reporting | Ask State Farm what's available | Page visits, quote starts |
+| Google Analytics 4 / Search Console | Free | Only on an approved agent-owned website |
+| Your State Farm agency systems / CRM | Existing | **Lead source on every prospect** |
 
-## 2. Conversions to track
+## 2. Lead source discipline (most important)
 
-| Conversion | How | Counts as primary? |
-|---|---|---|
-| Quote form submit | Thank-you page view (`/thank-you/`) or GTM form event | Yes |
-| Call from ads ≥60 seconds | Google forwarding number / call asset | Yes |
-| Call from website ≥60 seconds | Call-tracking dynamic number insertion | Yes |
-| GBP call / website click | GBP Performance (monthly, manual) | Report only |
-| Click on `tel:` link | GTM click trigger | Secondary (observation) |
-| Booking link scheduled | Calendly/booking confirmation | Yes |
+Every new prospect gets one source:
 
-## 3. Source naming (UTM conventions)
+`Google Search Ads` · `Google LSA` · `Google Maps/GBP` · `statefarm.com / corporate lead` ·
+`Client referral` · `Partner referral (name)` · `Cross-sell` · `Walk-in` · `Community event` ·
+`Social` · `Other`
 
-Use lowercase and the same values every time:
+Ask every caller and walk-in: **"How did you hear about our office?"** and record it the same day.
 
-| Channel | utm_source | utm_medium | utm_campaign examples |
+## 3. UTM conventions (for links you control, if permitted)
+
+| Channel | utm_source | utm_medium | utm_campaign |
 |---|---|---|---|
-| Google Ads | google | cpc | brand, local-agency, commercial, home |
-| Google Business Profile | google | organic | gbp, gbp-booking, gbp-post |
-| Email newsletter | newsletter | email | 2026-12-newsletter, cross-sell-auto-only |
-| Facebook page (organic) | facebook | social | post-{topic} |
-| Partner referral links | partner | referral | {partner-name} |
-| Print/QR codes | print | qr | business-card, office-sign |
+| GBP website button | google | organic | gbp |
+| Google Ads | google | cpc | brand-agent, auto-home, toys, new-resident |
+| Email | newsletter | email | 2026-12-atv-crosssell |
+| Facebook | facebook | social | post-{topic} |
+| Partner flyers (QR) | partner | qr | {partner-name} |
 
-Tip: build links with Google's Campaign URL Builder and log them in a shared sheet.
-
-## 4. Lead source in your AMS (the most important step)
-
-Create a required **Lead Source** dropdown with these values:
-
-`Google Ads` · `Google LSA` · `Google Organic/GBP` · `Website (other)` · `Client referral` ·
-`Partner referral` · `Cross-sell (existing client)` · `Walk-in` · `Social` · `Event` · `Other`
-
-Ask every new caller: *"How did you hear about us?"* and check it against the call-tracking source.
-
-## 5. Monthly reporting (30 minutes)
+## 4. Monthly report (30 minutes)
 
 Fill one row per channel in [`monthly-kpi-tracker.csv`](monthly-kpi-tracker.csv):
+**Spend → Leads → Quotes → New households → Policies → Premium**
 
-**Spend → Leads → Quotes → Binds → Premium → Commission**
-
-Then calculate cost per lead, cost per bind, and first-year commission ÷ spend (ROI). Reallocate
-budget toward the channels with the lowest **cost per bind**.
+Then compare cost per new household by channel and move budget to the best performers. Also log
+your review count vs. the other Gillette State Farm offices.

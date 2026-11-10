@@ -1,73 +1,81 @@
-# Local Insurance Agency Marketing Plan
+# Marketing Plan: Todd Butzine Insurance Agency, Inc. (State Farm®), Gillette, WY
 
-A cost-effective, ready-to-run marketing system for a small independent insurance agency
-competing in one local market. It covers **SEO**, **paid search**, **Google Business Profile**,
-**reviews**, **referrals/retention**, and **tracking**, with templates you can copy and use.
+A cost-effective, ready-to-run local marketing system for a State Farm agency in Gillette and the
+surrounding Campbell County / Northeast Wyoming market. Covers **Google Business Profile & reviews**,
+**local SEO**, **paid search**, **referrals & cross-sell**, and **tracking**.
 
-## Fill these in first
+## ⚠️ Read first: State Farm marketing compliance
 
-Search-and-replace these placeholders across every file:
+As a State Farm agent, your advertising is governed by your **State Farm agent agreement and State
+Farm's agent marketing/brand guidelines**, in addition to Wyoming Department of Insurance rules.
+Before running anything in this plan, confirm the following with your State Farm field leader /
+agency marketing support (rules change, and this plan can't see your agreement):
 
-| Placeholder | Example |
+| Ask State Farm | Why it matters |
 |---|---|
-| `{AGENCY}` | Smith Family Insurance |
-| `{CITY}` / `{STATE}` | Springfield / IL |
-| `{NEIGHBOR_TOWNS}` | Chatham, Sherman, Rochester |
-| `{PHONE}` | (217) 555-0100 |
-| `{DOMAIN}` | smithfamilyinsurance.com |
-| `{ADDRESS}` | 123 Main St, Springfield, IL 62701 |
-| `{CARRIERS}` | Progressive, Travelers, Safeco, Hartford |
+| Which **digital advertising vendors/programs are approved** for agents (paid search, Local Services Ads, social, lead programs)? | Many carriers require agents to buy digital ads only through approved vendors |
+| Can I **bid on "State Farm" brand keywords**, and through which program? | Trademark rules; may be handled by corporate or an approved vendor |
+| What can I **edit on my statefarm.com agent page**, and may I run a separate agent-owned website? | Determines how much of the SEO plan applies |
+| Required **Google Business Profile naming** and logo usage | Agent listings typically follow a set format |
+| **Pre-approval** process for ads, posts, emails, flyers, and sponsorship materials | Most agent-created materials need review |
+| Rules on **referral thank-you gifts**, and any **marketing co-op/reimbursement** funds | Wyoming anti-rebating rules plus State Farm policy; co-op money can stretch the budget |
+| **Texting/calling consent** requirements | TCPA and State Farm contact policies |
+
+Everything below is written to fit typical captive-agent rules, but **State Farm's guidance wins**
+if anything here conflicts with it.
+
+## Placeholders still to fill
+
+`{PHONE}`, `{ADDRESS}` (street), `{ZIP}`, `{AGENT_PAGE_URL}` (your statefarm.com agent page),
+`{YEAR}` (agency founded), `{LICENSE_NO}` (WY producer/agency license), `{RATING}`, `{REVIEW_COUNT}`.
 
 ## Strategy in one paragraph
 
-Small agencies can't outspend the national direct writers (GEICO, Progressive, State Farm) on
-broad terms like "car insurance", where clicks often cost $30–$60+. So we **win local intent**
-instead: people searching "insurance agent near me", "home insurance {CITY}", or "business
-insurance {CITY}". The plan puts money where a small agency has the edge: **(1)** Google Business
-Profile and reviews (free, highest ROI), **(2)** local SEO pages, **(3)** tightly geo-fenced paid
-search on high-intent, lower-competition keywords plus Local Services Ads, and **(4)** cross-selling
-and referrals from the clients you already have.
+Gillette is a small, relationship-driven market where many residents already know the State Farm
+name, and **several State Farm agents compete for the same customers**. So the goal isn't brand
+awareness; it's making *your* agency the one people pick: **most reviews, best Google Maps
+presence, fastest response, and the most visible in the community.** Paid search fills the gaps
+for high-intent searches ("State Farm agent Gillette", "home insurance Gillette WY"), while
+referrals and multi-line cross-selling (auto + home + life + ATV/RV/boat) grow revenue from the
+households you already serve.
 
-## Recommended monthly budget (starter tier, about $1,500/mo)
+## Recommended monthly budget (about $1,200/mo)
 
-| Channel | Monthly | Why |
+Gillette has much lower search volume and CPCs than big metros, so a modest budget goes far.
+
+| Channel | Monthly | Notes |
 |---|---|---|
-| Google Local Services Ads (pay per lead) | $500 | You pay only for qualified calls/messages; listed above regular ads |
-| Google Search Ads (geo-fenced, high intent) | $700 | Commercial, bundle, and niche local terms |
-| Reputation/review tool (optional) | $0–$100 | Automates review requests; a spreadsheet works to start |
-| Call tracking number | $30–$50 | Tells you which channel made the phone ring |
-| Content/SEO (owner time or a freelancer) | $0–$300 | 2 local pages or posts per month |
-| **Total** | **about $1,300–$1,650** | |
+| Google Search Ads (via State Farm–approved route) | $500 | Gillette + 50-mile area; brand + product terms |
+| Google Local Services Ads (*if permitted*) | $300 | Pay per lead; otherwise move to Search |
+| Community sponsorships (school sports, CAM-PLEX events, rodeo, 4-H) | $200 | Visibility + local backlinks + relationships |
+| Call tracking (if permitted) | $30–$50 | Know which channel made the phone ring |
+| Review/request tool (optional) | $0–$100 | A spreadsheet + texts works to start |
+| **Total** | **about $1,050–$1,150** | Check whether State Farm co-op funds offset any of this |
 
-Scaling: **Lean ($500/mo)** puts everything into LSA plus free GBP/SEO work.
-**Growth ($3,000+/mo)** doubles search ads and adds a Performance Max remarketing campaign.
-See [`strategy.md`](strategy.md) for the full rationale and the expected returns.
+**Lean ($300/mo):** Google Business Profile + reviews + small brand/product search campaign.
+**Growth ($2,000+/mo):** add Wright/Moorcroft/Sundance campaigns and seasonal pushes (spring hail, fall hunting/ATV, new-vehicle season).
 
 ## What's in this repo
 
 | Path | What it is |
 |---|---|
-| [`strategy.md`](strategy.md) | Positioning, target segments, budget, KPIs, ROI math |
-| [`90-day-launch-plan.md`](90-day-launch-plan.md) | Week-by-week implementation checklist |
+| [`strategy.md`](strategy.md) | Positioning vs. other agents, Gillette segments, KPIs, ROI math |
+| [`90-day-launch-plan.md`](90-day-launch-plan.md) | Week-by-week checklist |
 | [`local-presence/google-business-profile.md`](local-presence/google-business-profile.md) | GBP setup, weekly posts, Q&A, photos |
-| [`local-presence/reviews-playbook.md`](local-presence/reviews-playbook.md) | Review request system, scripts, response templates |
-| [`local-presence/citations-checklist.csv`](local-presence/citations-checklist.csv) | Directory listings to claim (NAP consistency) |
-| [`seo/seo-plan.md`](seo/seo-plan.md) | Site structure, on-page rules, content calendar, link building |
-| [`seo/keyword-map.csv`](seo/keyword-map.csv) | Keyword-to-page mapping |
-| [`seo/local-landing-page-template.html`](seo/local-landing-page-template.html) | Drop-in local service page with schema markup |
-| [`seo/schema-insurance-agency.jsonld`](seo/schema-insurance-agency.jsonld) | Structured data for the homepage |
-| [`paid-search/google-ads-plan.md`](paid-search/google-ads-plan.md) | Campaign structure, bidding, settings, optimization routine |
-| [`paid-search/google-ads-editor-import.csv`](paid-search/google-ads-editor-import.csv) | Keywords ready for Google Ads Editor import |
-| [`paid-search/negative-keywords.txt`](paid-search/negative-keywords.txt) | Shared negative list (stops wasted spend) |
-| [`paid-search/ad-copy.md`](paid-search/ad-copy.md) | Responsive search ad headlines/descriptions, assets |
-| [`paid-search/local-services-ads.md`](paid-search/local-services-ads.md) | LSA setup and lead management |
-| [`retention/referral-and-cross-sell.md`](retention/referral-and-cross-sell.md) | Referral program, cross-sell campaigns, email templates |
-| [`tracking/measurement-plan.md`](tracking/measurement-plan.md) | GA4, call tracking, UTMs, lead attribution |
+| [`local-presence/reviews-playbook.md`](local-presence/reviews-playbook.md) | Review engine: scripts and replies |
+| [`local-presence/citations-checklist.csv`](local-presence/citations-checklist.csv) | Directory listings to claim |
+| [`seo/seo-plan.md`](seo/seo-plan.md) | SEO for your statefarm.com page + GBP (+ own site if allowed) |
+| [`seo/keyword-map.csv`](seo/keyword-map.csv) | Gillette keyword-to-page map |
+| [`seo/local-landing-page-template.html`](seo/local-landing-page-template.html) | Landing page (only if an agent-owned site is permitted) |
+| [`seo/schema-insurance-agency.jsonld`](seo/schema-insurance-agency.jsonld) | Structured data (agent-owned site only) |
+| [`paid-search/google-ads-plan.md`](paid-search/google-ads-plan.md) | Campaign structure, settings, optimization |
+| [`paid-search/google-ads-editor-import.csv`](paid-search/google-ads-editor-import.csv) | Gillette keywords ready to import |
+| [`paid-search/negative-keywords.txt`](paid-search/negative-keywords.txt) | Negative list (incl. State Farm Arena/Stadium, logins, claims) |
+| [`paid-search/ad-copy.md`](paid-search/ad-copy.md) | Ad headlines/descriptions |
+| [`paid-search/local-services-ads.md`](paid-search/local-services-ads.md) | LSA setup (if permitted) |
+| [`retention/referral-and-cross-sell.md`](retention/referral-and-cross-sell.md) | Referral partners, cross-sell, annual reviews |
+| [`tracking/measurement-plan.md`](tracking/measurement-plan.md) | Tracking and lead-source discipline |
 | [`tracking/monthly-kpi-tracker.csv`](tracking/monthly-kpi-tracker.csv) | Monthly scorecard |
 
-## Compliance reminder
-
-Insurance advertising is regulated. Before launching, confirm that: ad claims ("save up to X%",
-"lowest rates") are substantiated or removed; carrier names and logos are used only as your
-agency agreements allow; your state Department of Insurance advertising rules are met (some
-require the license number in ads); and any texting/calling follows TCPA consent rules.
+*State Farm® and related marks are trademarks of State Farm Mutual Automobile Insurance Company.
+Use them only as your agent agreement and brand guidelines allow.*
